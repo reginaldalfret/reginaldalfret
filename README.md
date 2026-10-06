@@ -68,6 +68,7 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 - 🥇 **TN Police Hackathon 2025** — 1st Place (Adopted for live police operations)
 - 🥇 **Blaze a Trail 2.0** — 1st Place (Precision agri-intelligence)
 - 🏆 **6 National Symposia Wins** — Competitive tech championships
+- ⚡ **10 Open-Source PRs** — Across Meta, Apache, Intel & more
 - 📦 **69 Public Repositories** — Open source & systems projects
 
 <hr/>
@@ -394,12 +395,24 @@ SAP &bull; GitHub &bull; AMD ROCm
 
 <hr/>
 
-## GitHub Activity & Streak
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
+
+  <a href="https://github.com/reginaldalfret">
+    <img src="https://github-readme-stats.vercel.app/api?username=reginaldalfret&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=E6EDF3" height="165" alt="Reginald Alfret V's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/reginaldalfret">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldalfret&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" height="165" alt="Reginald Alfret V's Most Used Languages" />
+  </a>
+
+  <br/><br/>
+
   <a href="https://github.com/reginaldalfret">
     <img src="https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" alt="Reginald Alfret V's GitHub Streak" />
   </a>
+
 </div>
 
 <hr/>
