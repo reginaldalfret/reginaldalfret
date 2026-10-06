@@ -399,19 +399,23 @@ SAP &bull; GitHub &bull; AMD ROCm
 
 <div align="center">
 
-  <a href="https://github.com/reginaldalfret">
-    <img src="https://github-readme-stats.vercel.app/api?username=reginaldalfret&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=E6EDF3" height="165" alt="Reginald Alfret V's GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/reginaldalfret">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldalfret&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" height="165" alt="Reginald Alfret V's Most Used Languages" />
-  </a>
+  <p>
+    <a href="https://github.com/reginaldalfret">
+      <img src="https://github-readme-stats.vercel.app/api?username=reginaldalfret&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=E6EDF3" width="98%" alt="Reginald Alfret V's GitHub Stats" />
+    </a>
+  </p>
 
-  <br/><br/>
+  <p>
+    <a href="https://github.com/reginaldalfret">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldalfret&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" width="98%" alt="Reginald Alfret V's Most Used Languages" />
+    </a>
+  </p>
 
-  <a href="https://github.com/reginaldalfret">
-    <img src="https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" alt="Reginald Alfret V's GitHub Streak" />
-  </a>
+  <p>
+    <a href="https://github.com/reginaldalfret">
+      <img src="https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" width="98%" alt="Reginald Alfret V's GitHub Streak" />
+    </a>
+  </p>
 
 </div>
 
@@ -431,11 +435,19 @@ Interested in artificial intelligence, autonomous agent architectures, open sour
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Official_Website-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldalfret)
-[![GitHub](https://img.shields.io/badge/Explore_GitHub-reginaldalfret-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
-[![Email](https://img.shields.io/badge/Send_an_Email-reginaldalfret%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reginaldalfret@gmail.com)
-[![Resume](https://img.shields.io/badge/Download_R%C3%A9sum%C3%A9-PDF-FF2A54?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://reginaldalfret.tech/Reginald_Alfret_Resume.pdf)
+<p>
+  <a href="https://reginaldalfret.tech"><img src="https://img.shields.io/badge/Official_Website-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505" alt="Website" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/reginaldalfret"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/reginaldalfret"><img src="https://img.shields.io/badge/Explore_GitHub-reginaldalfret-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:reginaldalfret@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-reginaldalfret%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://reginaldalfret.tech/Reginald_Alfret_Resume.pdf"><img src="https://img.shields.io/badge/Download_R%C3%A9sum%C3%A9-PDF-FF2A54?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
 
 </div>
 
