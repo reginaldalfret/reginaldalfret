@@ -155,6 +155,162 @@ A data-driven agricultural decision intelligence engine combining soil chemistry
 
 <hr/>
 
+
+<hr/>
+
+## ⚡ Open-Source Contributions
+
+Contributing focused bug fixes, test updates, infrastructure improvements, and documentation fixes across major open-source ecosystems.
+
+<div align="center">
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td width="33%" valign="top">
+
+### 🔵 Meta — StyleX
+
+**PR #1899 · MERGED**
+
+<sub>Fix heading anchor layout behavior so mixed inline content wraps naturally on narrow viewports.</sub>
+
+[View Pull Request ↗](https://github.com/facebook/stylex/pull/1899)
+
+</td>
+<td width="33%" valign="top">
+
+### 🟠 Apache — ShenYu
+
+**PR #696 · MERGED**
+
+<sub>Fixed PropTypes validators being declared in <code>defaultProps</code> instead of <code>propTypes</code>.</sub>
+
+[View Pull Request ↗](https://github.com/apache/shenyu-dashboard/pull/696)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔵 Intel — PyTorch XPU
+
+**PR #5518 · MERGED**
+
+<sub>Aligned the XPU <code>grid_sample</code> test with upstream PyTorch behavior.</sub>
+
+[View Pull Request ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🟧 Cloudflare — Vinext
+
+**PR #3470 · INCORPORATED**
+
+<sub>Changed rejected edge-cache purge handling to return <code>false</code> instead of throwing; incorporated into merged PR #3534.</sub>
+
+[View Pull Request ↗](https://github.com/cloudflare/vinext/pull/3470)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔷 Microsoft Azure — Cosmos DB
+
+**PR #359 · MERGED**
+
+<sub>Updated Linux Cosmos DB emulator documentation and image references for GA.</sub>
+
+[View Pull Request ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔷 IBM — Docling Pipelines
+
+**PR #85 · MERGED**
+
+<sub>Removed stale project paths from contributor and architecture documentation.</sub>
+
+[View Pull Request ↗](https://github.com/IBM/docling-pipelines/pull/85)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🐳 Docker — Docker Docs
+
+**PR #26266 · MERGED**
+
+<sub>Aligned <code>enableDockerAI</code> documentation with the full set of accepted values.</sub>
+
+[View Pull Request ↗](https://github.com/docker/docs/pull/26266)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔷 SAP — Terraform Provider BTP
+
+**PR #1710 · MERGED**
+
+<sub>Expanded service-instance import guidance covering parameters, timeouts, and non-updateable resources.</sub>
+
+[View Pull Request ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚫ GitHub — GitHub CLI
+
+**PR #14592 · MERGED**
+
+<sub>Improved Nix/NixOS installation guidance with shell-based and declarative configuration recommendations.</sub>
+
+[View Pull Request ↗](https://github.com/cli/cli/pull/14592)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🔴 AMD ROCm — HRX System
+
+**PR #1231 · MERGED**
+
+<sub>Allowed reuse of populated tool environments with compatible Python versions instead of strict version-string matching.</sub>
+
+[View Pull Request ↗](https://github.com/ROCm/hrx-system/pull/1231)
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Contribution Footprint
+
+**9 MERGED PRs**  
+**10 documented contributions**  
+**9 major open-source organizations**
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Ecosystems
+
+Meta · Apache · Intel · Cloudflare · Azure  
+IBM · Docker · SAP · GitHub · AMD ROCm
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> **Open source is part of how I learn systems engineering:** reading unfamiliar codebases, reproducing issues, making focused changes, validating behavior, and working through upstream contribution workflows.
+
+[![Explore All Contributions on GitHub](https://img.shields.io/badge/EXPLORE_ALL_CONTRIBUTIONS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
+
 ## Technical Arsenal
 
 ### Artificial Intelligence & Machine Learning
