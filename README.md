@@ -1,7 +1,7 @@
 <div align="center">
 
 # Reginald Alfret V
-### Software Engineer &bull; AI Engineer &bull; Full-Stack Developer
+### Open-Source Contributor &bull; AI Engineer &bull; Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldalfret)
@@ -27,8 +27,9 @@
   <h3><b>Reginald Alfret V</b></h3>
   <p><code>@reginaldalfret</code></p>
   <p>
-    <b>Software Engineer</b><br/>
+    <b>Open-Source Contributor</b><br/>
     <b>AI Engineer</b><br/>
+    <b>Software Engineer</b><br/>
     <i>Full-Stack Developer</i>
   </p>
 </div>
@@ -37,7 +38,7 @@
 
 <p>
 <b>Core Positioning:</b><br/>
-<i>"Builder of AI systems, intelligent applications, and experimental technology."</i>
+<i>"Active upstream open-source contributor and builder of autonomous AI systems."</i>
 </p>
 
 <hr/>
@@ -64,11 +65,11 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 <p><b>Verified Distinctions:</b></p>
 
+- ⚡ **14 Merged Open-Source PRs** — Apple, NVIDIA, Meta, GitHub, Intel & more
 - 🥇 **HackIndia 2026** — 1st Place (500+ teams nationwide)
 - 🥇 **TN Police Hackathon 2025** — 1st Place (Adopted for live police operations)
 - 🥇 **Blaze a Trail 2.0** — 1st Place (Precision agri-intelligence)
 - 🏆 **6 National Symposia Wins** — Competitive tech championships
-- ⚡ **10 Open-Source PRs** — Across Meta, Apache, Intel & more
 - 📦 **69 Public Repositories** — Open source & systems projects
 
 <hr/>
@@ -98,18 +99,178 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 ## About Me
 
-Reginald Alfret V is a **Software Engineer**, **Full-Stack Developer**, and **AI Engineer** based in Chennai, India. Specializing in multi-agent artificial intelligence architectures, high-performance web systems, scalable REST APIs, and production machine learning pipelines.
+Reginald Alfret V is an **Open-Source Contributor**, **AI Engineer**, **Software Engineer**, and **Full-Stack Developer** based in Chennai, India. Specializing in multi-agent artificial intelligence architectures, upstream open-source systems, scalable REST APIs, and production machine learning pipelines.
 
-Currently engineering enterprise ERP software and full-stack systems at **DailyGurus**, with previous experience in predictive modeling and exploratory data science at **Data Patterns (India) Ltd.** Known for architecting national champion AI solutions including an autonomous multi-agent platform selected 1st across 500+ teams at HackIndia 2026 and a dark-web cyber intelligence platform adopted by the Tamil Nadu Police.
+Active contributor to major open-source ecosystems with **14 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, GitHub, Intel, Cloudflare, Qualcomm, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, and Apache**. 
+
+Currently engineering enterprise ERP software and full-stack modules at **DailyGurus**, with previous predictive modeling experience at **Data Patterns (India) Ltd.** Architect of national champion AI solutions including an autonomous multi-agent platform selected 1st across 500+ teams at HackIndia 2026 and a dark-web forensic intelligence platform adopted by the Tamil Nadu Police.
 
 <hr/>
 
-## Currently Building & Exploring
+<div align="center">
 
-- 🤖 **Multi-Agent Architectures:** Autonomous agent orchestration with centralized supervisors, hierarchical state management, and real-time streaming interfaces.
-- 🛡️ **Cyber Intelligence Systems:** High-throughput forensic tracking, suspect network topological graph profiling, and ML threat classification.
-- 🌾 **Explainable Precision AI:** Spatial machine learning fusing soil chemistry, meteorological forecasting, and GIS datasets for agricultural decision intelligence.
-- ⚡ **Full-Stack Enterprise Platforms:** Scalable REST backends, relational schema optimization (PostgreSQL/MySQL), and high-fidelity React/Next.js frontends.
+## ⚡ Open-Source Contributions
+### 14 MERGED PULL REQUESTS &bull; 14 ORGANIZATIONS &bull; 100% MERGED
+
+*Direct upstream contributions merged into official production repositories.*
+
+<br/>
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 Apple &bull; Swift Numerics
+**PR #355 &bull; MERGED**  
+<sub>Authored dedicated documentation and usage examples for the <code>ApproximateEquality</code> protocol in Swift Numerics.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/apple/swift-numerics/pull/355)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 NVIDIA &bull; CUDA-Q
+**PR #5560 &bull; MERGED**  
+<sub>Corrected typographical errors and refined technical phrasing in the state vector simulators quantum documentation.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/NVIDIA/cuda-quantum/pull/5560)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 Meta &bull; StyleX
+**PR #1899 &bull; MERGED**  
+<sub>Removed problematic inline-flex/gap styling from heading anchor links so mixed inline content preserves natural text wrapping.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/facebook/stylex/pull/1899)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟣 GitHub &bull; CLI
+**PR #14592 &bull; MERGED**  
+<sub>Improved Nix/NixOS installation documentation for GitHub CLI by recommending nix-shell and declarative configuration.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/cli/cli/pull/14592)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 Intel &bull; PyTorch XPU
+**PR #5518 &bull; MERGED**  
+<sub>Aligned the XPU <code>grid_sample</code> test suite with upstream PyTorch behavior by removing an obsolete exception assertion.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟧 Cloudflare &bull; Vinext
+**PR #3469 &bull; MERGED**  
+<sub>Documented <code>startProdServer</code> programmatic API for custom server scripts and compiled standalone outputs in Cloudflare vinext.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/cloudflare/vinext/pull/3469)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Qualcomm &bull; QAI AppBuilder
+**PR #286 &bull; MERGED**  
+<sub>Fixed broken screenshot relative image paths in WebUI documentation ensuring consistent asset rendering across docs.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/qualcomm/qai-appbuilder/pull/286)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌺 Airbnb &bull; MagazineLayout
+**PR #169 &bull; MERGED**  
+<sub>Specified explicit <code>swift_versions</code> array supporting Swift 4.0, 4.2, and 5.0 in CocoaPods specification for dependency manager compatibility.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/airbnb/MagazineLayout/pull/169)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Microsoft Azure &bull; Cosmos DB
+**PR #359 &bull; MERGED**  
+<sub>Updated Linux Cosmos DB emulator documentation and container image references to reflect General Availability (GA) status.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 IBM &bull; Docling Pipelines
+**PR #85 &bull; MERGED**  
+<sub>Removed obsolete project paths from contributor and architecture documentation and aligned with current project structure.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/IBM/docling-pipelines/pull/85)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 Docker &bull; Docs
+**PR #26266 &bull; MERGED**  
+<sub>Updated Docker documentation so <code>enableDockerAI</code> accurately documents both boolean and Business-tier string values.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/docker/docs/pull/26266)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 SAP &bull; Terraform Provider BTP
+**PR #1710 &bull; MERGED**  
+<sub>Expanded Terraform import documentation with guidance for parameters, timeouts, and non-updateable service instances.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 AMD ROCm &bull; HRX System
+**PR #1231 &bull; MERGED**  
+<sub>Improved Python environment reuse by allowing compatible populated environments instead of strict version-string equality.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/ROCm/hrx-system/pull/1231)
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 Apache &bull; ShenYu Dashboard
+**PR #696 &bull; MERGED**  
+<sub>Fixed incorrect placement of PropTypes validators in <code>defaultProps</code> by moving them to <code>propTypes</code>.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/apache/shenyu-dashboard/pull/696)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Explore All Contributions on GitHub](https://img.shields.io/badge/EXPLORE_ALL_CONTRIBUTIONS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
+[![View on Portfolio](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO_DASHBOARD-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech/#open-source)
+
+</div>
 
 <hr/>
 
@@ -155,195 +316,6 @@ A data-driven agricultural decision intelligence engine combining soil chemistry
 - **Links:** [GitHub Repository &rarr;](https://github.com/reginaldalfret/Bank-Fraud-Detection)
 
 <hr/>
-
-<div align="center">
-
-## ⚡ Open-Source Contributions
-
-**9 MERGED PRs** &bull; **10 DOCUMENTED CONTRIBUTIONS** &bull; **10 MAJOR OPEN-SOURCE ORGANIZATIONS**
-
-*Contributing focused bug fixes, test updates, infrastructure improvements, and documentation across major open-source ecosystems.*
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-<tr>
-<td width="33%" valign="top">
-
-### 🔵 Meta — StyleX
-
-**PR #1899 &bull; MERGED**
-
-<sub>Removed problematic inline-flex/gap styling from heading anchor links so mixed inline content preserves natural text wrapping on narrow viewports.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/facebook/stylex/pull/1899)
-
-</td>
-<td width="33%" valign="top">
-
-### 🟠 Apache — ShenYu
-
-**PR #696 &bull; MERGED**
-
-<sub>Fixed PropTypes validators being declared in <code>defaultProps</code> instead of <code>propTypes</code> in the administration dashboard.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/apache/shenyu-dashboard/pull/696)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔵 Intel — PyTorch XPU
-
-**PR #5518 &bull; MERGED**
-
-<sub>Aligned the XPU <code>grid_sample</code> test with upstream PyTorch behavior by removing an obsolete expected-exception assertion.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### 🟧 Cloudflare — Vinext
-
-**PR #3470 &bull; INCORPORATED**
-
-<sub>Changed rejected edge-cache purge handling to return <code>false</code> instead of throwing; contribution incorporated into merged upstream PR #3534.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/cloudflare/vinext/pull/3470)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔷 Microsoft Azure — Cosmos DB
-
-**PR #359 &bull; MERGED**
-
-<sub>Updated Linux Cosmos DB emulator documentation and image references to reflect General Availability (GA) status.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔷 IBM — Docling Pipelines
-
-**PR #85 &bull; MERGED**
-
-<sub>Removed obsolete project paths from contributor and architecture documentation and aligned with current project layout.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/IBM/docling-pipelines/pull/85)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### 🐳 Docker — Docker Docs
-
-**PR #26266 &bull; MERGED**
-
-<sub>Aligned Docker documentation with the complete set of accepted <code>enableDockerAI</code> settings reference values.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/docker/docs/pull/26266)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔷 SAP — Terraform Provider BTP
-
-**PR #1710 &bull; MERGED**
-
-<sub>Expanded service-instance import documentation covering parameters, timeouts, and non-updateable resources.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚫ GitHub — GitHub CLI
-
-**PR #14592 &bull; MERGED**
-
-<sub>Improved GitHub CLI Nix/NixOS installation documentation with shell-based and declarative configuration guidance.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/cli/cli/pull/14592)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### 🔴 AMD ROCm — HRX System
-
-**PR #1231 &bull; MERGED**
-
-<sub>Improved environment reuse by accepting compatible populated Python environments rather than enforcing strict version-string equality.</sub>
-
-<br/>
-
-[View Pull Request ↗](https://github.com/ROCm/hrx-system/pull/1231)
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Contribution Footprint
-
-**9 MERGED PRs** &bull; **1 INCORPORATED PR**  
-**10 Documented Contributions**  
-**10 Major Open-Source Organizations**
-
-<br/>
-
-<sub>Rigorous verification across official GitHub repositories.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Ecosystems
-
-Meta &bull; Apache &bull; Intel &bull; Cloudflare  
-Microsoft Azure &bull; IBM &bull; Docker  
-SAP &bull; GitHub &bull; AMD ROCm
-
-<br/>
-
-[Interactive Portfolio Showcase ↗](https://reginaldalfret.tech/#open-source)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> **Open source is part of how I learn systems engineering:** reading unfamiliar codebases, reproducing issues, making focused changes, validating behavior, and working through upstream contribution workflows.
-
-<div align="center">
-
-[![Explore All Contributions on GitHub](https://img.shields.io/badge/EXPLORE_ALL_CONTRIBUTIONS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
-[![View on Portfolio](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO_DASHBOARD-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech/#open-source)
-
-</div>
 
 ## Technical Arsenal
 
@@ -423,7 +395,7 @@ SAP &bull; GitHub &bull; AMD ROCm
 
 > *"Building systems with purpose: prioritizing verifiable facts, sovereign data privacy, clean interface ergonomics, and deterministic performance."*
 
-Engineering is more than writing syntax—it's about creating reliable tools that solve tangible problems. Whether it's coordinating autonomous agent swarms, assisting cyber forensic investigations, or empowering growers with precision agronomy, I focus on software that delivers real-world impact.
+Engineering is more than writing syntax—it's about creating reliable tools that solve tangible problems. Whether it's coordinating autonomous agent swarms, assisting cyber forensic investigations, or contributing focused upstream patches to foundational open-source ecosystems, I focus on software that delivers real-world impact.
 
 <hr/>
 
