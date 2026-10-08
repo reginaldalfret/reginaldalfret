@@ -52,7 +52,7 @@ Chennai, Tamil Nadu, India
 🎓 <b>Education:</b><br/>
 <b>St. Joseph's Institute of Technology</b><br/>
 B.Tech in Artificial Intelligence & Data Science<br/>
-<i>2022 – 2026 &bull; CGPA: 8.2 / 10</i>
+<i>2023 – 2027 &bull; CGPA: 8.2 / 10 &bull; No Arrears</i>
 </p>
 
 <p>
@@ -66,10 +66,10 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 <p><b>Verified Distinctions:</b></p>
 
 - ⚡ **14 Merged Open-Source PRs** — Apple, NVIDIA, Meta, GitHub, Intel & more
-- 🥇 **HackIndia 2026** — 1st Place (500+ teams nationwide)
-- 🥇 **TN Police Hackathon 2025** — 1st Place (Adopted for live police operations)
-- 🥇 **Blaze a Trail 2.0** — 1st Place (Precision agri-intelligence)
-- 🏆 **6 National Symposia Wins** — Competitive tech championships
+- 🥇 **3× 1st Place Hackathon Winner** — HackIndia 2026, TN Police 2025, Blaze a Trail 2.0
+- 🛡️ **Finalist** — TN Police Hackathon 2024
+- 🏆 **6 National Symposia Wins** — Competitive championships
+- 🚀 **70+ Projects** — Across AI, Web & Automation
 - 📦 **69 Public Repositories** — Open source & systems projects
 
 <hr/>
@@ -326,7 +326,7 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 A sovereign, local-first multi-agent artificial intelligence platform orchestrating **301 specialised AI agents** coordinated by a central supervisor (Agent 301). Features on-device local LLM execution, OCR document digestion, and real-time streaming automation graphs.
 
 - **Architecture:** Central Hierarchical Orchestrator &bull; Local LLM Inference &bull; Vector Embeddings &bull; OCR Document Ingestion &bull; Asynchronous WebSockets
-- **Stack:** Python &bull; Large Language Models (LLMs) &bull; FastAPI &bull; React.js &bull; OCR &bull; Workflow Automation &bull; WebSockets
+- **Stack:** Python &bull; LLMs (Ollama) &bull; Agent Orchestration &bull; FastAPI &bull; React.js &bull; OCR &bull; Workflow Automation &bull; WebSockets
 - **Links:** [Read Case Study &rarr;](https://reginaldalfret.tech/projects/301-super-ai-agents) &bull; [Portfolio Overview &rarr;](https://reginaldalfret.tech/#work)
 
 <br/>
@@ -390,14 +390,14 @@ A data-driven agricultural decision intelligence engine combining soil chemistry
 ```
 2026 — Present   Software Developer (Core Team) &bull; DailyGurus (Chennai, India)
                  &bull; Engineering enterprise ERP software, scalable REST backends, and full-stack modules.
-                 &bull; Designing relational databases and responsive TypeScript/React interfaces.
+                 &bull; Contributing to ERPNext customizations, database integrations, and React.js/Node.js/TypeScript apps.
 
 2025 — 2025      Data Science Intern &bull; Data Patterns (India) Ltd. (Chennai, India)
-                 &bull; Built and evaluated supervised machine learning models in Python/Scikit-Learn.
-                 &bull; Executed exploratory data analysis, feature engineering, and predictive pipelines.
+                 &bull; Built Python web-scraping tools collecting aerospace research papers from IEEE sources.
+                 &bull; Curated domain datasets and fine-tuned an LLM using LoRA (Low-Rank Adaptation).
 
-2022 — 2026      B.Tech — Artificial Intelligence & Data Science &bull; St. Joseph's Institute of Technology
-                 &bull; CGPA: 8.2 / 10 &bull; Focus on AI architectures, algorithms, data structures, and ML.
+2023 — 2027      B.Tech — Artificial Intelligence & Data Science &bull; St. Joseph's Institute of Technology
+                 &bull; CGPA: 8.2 / 10 &bull; No Arrears &bull; Focus on AI architectures, algorithms, data structures, and ML.
 ```
 
 <hr/>
@@ -407,7 +407,18 @@ A data-driven agricultural decision intelligence engine combining soil chemistry
 - 🥇 **1st Place Champion — HackIndia 2026:** Awarded 1st place nationwide out of 500+ competing engineering teams for *301 Super AI Agents*.
 - 🥇 **1st Place — Tamil Nadu Police Hackathon 2025:** Won 1st place in cyber intelligence track with *TOR-UNVEIL*; delivered directly for operational adoption by Tamil Nadu Police.
 - 🥇 **1st Place — Blaze a Trail 2.0:** Recognized for precision farming intelligence and transparent machine learning with *AI Crop Recommendation*.
-- 🏆 **6 National Technical Symposium Wins:** Consecutive 1st-place championship awards across state and national collegiate engineering symposia (70+ symposia track record).
+- 🛡️ **Finalist — TN Police Hackathon 2024:** Recognized for law enforcement innovation.
+- 🏆 **6 National Technical Symposium Wins:** Consecutive 1st-place championship awards across state and national collegiate engineering symposia.
+- 🚀 **70+ Projects Track Record:** Built across AI systems, full-stack web, and workflow automation.
+
+<hr/>
+
+## Certifications & Credentials
+
+- 📜 **Meta Front-End Developer** &bull; Coursera
+- 📜 **Google Cybersecurity Certificate** &bull; Coursera
+- 📜 **React: The Complete Guide** &bull; Udemy
+- 📜 **Figma UI/UX Design Essentials** &bull; Udemy
 
 <hr/>
 
