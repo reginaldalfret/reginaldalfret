@@ -4,8 +4,8 @@
 ### Open-Source Contributor &bull; AI Engineer &bull; Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
+[![Open Source](https://img.shields.io/badge/OPEN--SOURCE-14_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldalfret)
-[![GitHub](https://img.shields.io/badge/GITHUB-reginaldalfret-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
 [![Resume](https://img.shields.io/badge/R%C3%89SUM%C3%89-PDF_DOWNLOAD-FF2A54?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://reginaldalfret.tech/Reginald_Alfret_Resume.pdf)
 [![Email](https://img.shields.io/badge/EMAIL-reginaldalfret%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reginaldalfret@gmail.com)
 
@@ -38,7 +38,7 @@
 
 <p>
 <b>Core Positioning:</b><br/>
-<i>"Active upstream open-source contributor and builder of autonomous AI systems."</i>
+<i>"Building intelligent systems and contributing focused fixes, tests, documentation, and infrastructure improvements to major open-source ecosystems."</i>
 </p>
 
 <hr/>
@@ -77,6 +77,7 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 <p><b>Verified Contact & Dossier:</b></p>
 
 - 🌐 **Website:** [reginaldalfret.tech](https://reginaldalfret.tech)
+- ⚡ **Open Source:** [reginaldalfret.tech/#open-source](https://reginaldalfret.tech/#open-source)
 - 📄 **Dossier:** [reginaldalfret.tech/about](https://reginaldalfret.tech/about)
 - 💼 **LinkedIn:** [in/reginaldalfret](https://www.linkedin.com/in/reginaldalfret)
 - 💻 **GitHub:** [@reginaldalfret](https://github.com/reginaldalfret)
@@ -99,9 +100,9 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 ## About Me
 
-Reginald Alfret V is an **Open-Source Contributor**, **AI Engineer**, **Software Engineer**, and **Full-Stack Developer** based in Chennai, India. Specializing in multi-agent artificial intelligence architectures, upstream open-source systems, scalable REST APIs, and production machine learning pipelines.
+Reginald Alfret V is an **Open-Source Contributor**, **AI Engineer**, **Software Engineer**, and **Full-Stack Developer** based in Chennai, India. Specializing in upstream open-source contributions, autonomous multi-agent artificial intelligence architectures, scalable REST APIs, and production machine learning pipelines.
 
-Active contributor to major open-source ecosystems with **14 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, GitHub, Intel, Cloudflare, Qualcomm, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, and Apache**. 
+Active contributor to major open-source ecosystems with **14 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, GitHub, Intel, Cloudflare, Qualcomm, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, and Apache**.
 
 Currently engineering enterprise ERP software and full-stack modules at **DailyGurus**, with previous predictive modeling experience at **Data Patterns (India) Ltd.** Architect of national champion AI solutions including an autonomous multi-agent platform selected 1st across 500+ teams at HackIndia 2026 and a dark-web forensic intelligence platform adopted by the Tamil Nadu Police.
 
@@ -109,19 +110,32 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 
 <div align="center">
 
-## ⚡ Open-Source Contributions
-### 14 MERGED PULL REQUESTS &bull; 14 ORGANIZATIONS &bull; 100% MERGED
+## ⚡ Open-Source Engineering Command Center
+### PRIMARY ENGINEERING SIGNAL &bull; 100% UPSTREAM MERGED
 
-*Direct upstream contributions merged into official production repositories.*
+[![Upstream Merged](https://img.shields.io/badge/UPSTREAM_MERGED-14_PRs_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
+&nbsp;
+[![Total Impact](https://img.shields.io/badge/TOTAL_IMPACT-14_CONTRIBUTIONS-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
+&nbsp;
+[![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-14_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
 
 <br/>
+
+*Active upstream engineering contributions merged directly into official repositories across Fortune 100 enterprises, hyperscalers, and premier foundations.*
+
+</div>
+
+<br/>
+
+### 🌟 Spotlight Contributions
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-### 🍎 Apple &bull; Swift Numerics
-**PR #355 &bull; MERGED**  
+#### 🍎 Apple &bull; Swift Numerics
+`apple/swift-numerics` &bull; **PR #355**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/apple/swift-numerics/pull/355) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/apple/swift-numerics/pull/355)  
 <sub>Authored dedicated documentation and usage examples for the <code>ApproximateEquality</code> protocol in Swift Numerics.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/apple/swift-numerics/pull/355)
@@ -129,8 +143,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🟢 NVIDIA &bull; CUDA-Q
-**PR #5560 &bull; MERGED**  
+#### 🟢 NVIDIA &bull; CUDA-Q
+`NVIDIA/cuda-quantum` &bull; **PR #5560**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/NVIDIA/cuda-quantum/pull/5560) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/NVIDIA/cuda-quantum/pull/5560)  
 <sub>Corrected typographical errors and refined technical phrasing in the state vector simulators quantum documentation.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/NVIDIA/cuda-quantum/pull/5560)
@@ -141,8 +156,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Meta &bull; StyleX
-**PR #1899 &bull; MERGED**  
+#### 🔵 Meta &bull; StyleX
+`facebook/stylex` &bull; **PR #1899**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/facebook/stylex/pull/1899) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/facebook/stylex/pull/1899)  
 <sub>Removed problematic inline-flex/gap styling from heading anchor links so mixed inline content preserves natural text wrapping.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/facebook/stylex/pull/1899)
@@ -150,8 +166,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🟣 GitHub &bull; CLI
-**PR #14592 &bull; MERGED**  
+#### 🟣 GitHub &bull; CLI
+`cli/cli` &bull; **PR #14592**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/cli/cli/pull/14592) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/cli/cli/pull/14592)  
 <sub>Improved Nix/NixOS installation documentation for GitHub CLI by recommending nix-shell and declarative configuration.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/cli/cli/pull/14592)
@@ -162,8 +179,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Intel &bull; PyTorch XPU
-**PR #5518 &bull; MERGED**  
+#### 🔵 Intel &bull; PyTorch XPU
+`intel/torch-xpu-ops` &bull; **PR #5518**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/intel/torch-xpu-ops/pull/5518) [![Category](https://img.shields.io/badge/CATEGORY-TEST-8B5CF6?style=flat-square)](https://github.com/intel/torch-xpu-ops/pull/5518)  
 <sub>Aligned the XPU <code>grid_sample</code> test suite with upstream PyTorch behavior by removing an obsolete exception assertion.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
@@ -171,20 +189,28 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🟧 Cloudflare &bull; Vinext
-**PR #3469 &bull; MERGED**  
+#### 🟧 Cloudflare &bull; Vinext
+`cloudflare/vinext` &bull; **PR #3469**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/cloudflare/vinext/pull/3469) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/cloudflare/vinext/pull/3469)  
 <sub>Documented <code>startProdServer</code> programmatic API for custom server scripts and compiled standalone outputs in Cloudflare vinext.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/cloudflare/vinext/pull/3469)
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+### 📋 Full Verified Contribution Directory (14 Pull Requests)
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 Qualcomm &bull; QAI AppBuilder
-**PR #286 &bull; MERGED**  
+**🔴 Qualcomm &bull; QAI AppBuilder**  
+`qualcomm/qai-appbuilder` &bull; **PR #286**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/qualcomm/qai-appbuilder/pull/286) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/qualcomm/qai-appbuilder/pull/286)  
 <sub>Fixed broken screenshot relative image paths in WebUI documentation ensuring consistent asset rendering across docs.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/qualcomm/qai-appbuilder/pull/286)
@@ -192,8 +218,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🌺 Airbnb &bull; MagazineLayout
-**PR #169 &bull; MERGED**  
+**🌺 Airbnb &bull; MagazineLayout**  
+`airbnb/MagazineLayout` &bull; **PR #169**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/airbnb/MagazineLayout/pull/169) [![Category](https://img.shields.io/badge/CATEGORY-BUILD-EC4899?style=flat-square)](https://github.com/airbnb/MagazineLayout/pull/169)  
 <sub>Specified explicit <code>swift_versions</code> array supporting Swift 4.0, 4.2, and 5.0 in CocoaPods specification for dependency manager compatibility.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/airbnb/MagazineLayout/pull/169)
@@ -204,8 +231,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Microsoft Azure &bull; Cosmos DB
-**PR #359 &bull; MERGED**  
+**🔷 Microsoft Azure &bull; Cosmos DB**  
+`Azure/azure-cosmos-db-emulator-docker` &bull; **PR #359**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)  
 <sub>Updated Linux Cosmos DB emulator documentation and container image references to reflect General Availability (GA) status.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
@@ -213,8 +241,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🔷 IBM &bull; Docling Pipelines
-**PR #85 &bull; MERGED**  
+**🔷 IBM &bull; Docling Pipelines**  
+`IBM/docling-pipelines` &bull; **PR #85**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/IBM/docling-pipelines/pull/85) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/IBM/docling-pipelines/pull/85)  
 <sub>Removed obsolete project paths from contributor and architecture documentation and aligned with current project structure.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/IBM/docling-pipelines/pull/85)
@@ -225,8 +254,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 <tr>
 <td width="50%" valign="top">
 
-### 🐳 Docker &bull; Docs
-**PR #26266 &bull; MERGED**  
+**🐳 Docker &bull; Docs**  
+`docker/docs` &bull; **PR #26266**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/docker/docs/pull/26266) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/docker/docs/pull/26266)  
 <sub>Updated Docker documentation so <code>enableDockerAI</code> accurately documents both boolean and Business-tier string values.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/docker/docs/pull/26266)
@@ -234,8 +264,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🔷 SAP &bull; Terraform Provider BTP
-**PR #1710 &bull; MERGED**  
+**🔷 SAP &bull; Terraform Provider BTP**  
+`SAP/terraform-provider-btp` &bull; **PR #1710**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/SAP/terraform-provider-btp/pull/1710) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/SAP/terraform-provider-btp/pull/1710)  
 <sub>Expanded Terraform import documentation with guidance for parameters, timeouts, and non-updateable service instances.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
@@ -246,8 +277,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 AMD ROCm &bull; HRX System
-**PR #1231 &bull; MERGED**  
+**🔴 AMD ROCm &bull; HRX System**  
+`ROCm/hrx-system` &bull; **PR #1231**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/ROCm/hrx-system/pull/1231) [![Category](https://img.shields.io/badge/CATEGORY-INFRA-EF4444?style=flat-square)](https://github.com/ROCm/hrx-system/pull/1231)  
 <sub>Improved Python environment reuse by allowing compatible populated environments instead of strict version-string equality.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/ROCm/hrx-system/pull/1231)
@@ -255,8 +287,9 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 </td>
 <td width="50%" valign="top">
 
-### 🟠 Apache &bull; ShenYu Dashboard
-**PR #696 &bull; MERGED**  
+**🟠 Apache &bull; ShenYu Dashboard**  
+`apache/shenyu-dashboard` &bull; **PR #696**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/apache/shenyu-dashboard/pull/696) [![Category](https://img.shields.io/badge/CATEGORY-BUG_FIX-F59E0B?style=flat-square)](https://github.com/apache/shenyu-dashboard/pull/696)  
 <sub>Fixed incorrect placement of PropTypes validators in <code>defaultProps</code> by moving them to <code>propTypes</code>.</sub>  
 <br/>
 [View Pull Request ↗](https://github.com/apache/shenyu-dashboard/pull/696)
@@ -267,8 +300,19 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 
 <br/>
 
-[![Explore All Contributions on GitHub](https://img.shields.io/badge/EXPLORE_ALL_CONTRIBUTIONS-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
-[![View on Portfolio](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO_DASHBOARD-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech/#open-source)
+### 🛡️ Why Open Source & Upstream Rigor
+
+> *"Open source is core to how I practice engineering: diving into large unfamiliar codebases, diagnosing production edge-cases, aligning test suites with upstream invariants, and collaborating with maintainers through public peer reviews."*
+
+- 🛠️ **Diagnostic Precision:** Reproducing regressions in complex environments before authoring minimal, surgical fixes.
+- 🔄 **Upstream Parity:** Keeping developer tooling, documentation, and test assertions in lockstep with official releases.
+- 🤝 **Maintainer Trust:** Collaborating politely through CI checks, linting gates, and senior reviewer feedback.
+
+<div align="center">
+
+[![Explore All on GitHub](https://img.shields.io/badge/EXPLORE_ALL_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
+&nbsp;
+[![Interactive Portfolio Dashboard](https://img.shields.io/badge/INTERACTIVE_PORTFOLIO_DASHBOARD-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech/#open-source)
 
 </div>
 
@@ -407,6 +451,8 @@ Interested in artificial intelligence, autonomous agent architectures, open sour
 
 <p>
   <a href="https://reginaldalfret.tech"><img src="https://img.shields.io/badge/Official_Website-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505" alt="Website" /></a>
+  &nbsp;
+  <a href="https://reginaldalfret.tech/#open-source"><img src="https://img.shields.io/badge/Open--Source_Showcase-14_PRs-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/reginaldalfret"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
