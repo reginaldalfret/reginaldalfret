@@ -1,7 +1,7 @@
 <div align="center">
 
 # Reginald Alfret V
-### Open-Source Contributor &bull; AI Engineer &bull; Software Engineer
+### Open-Source Contributor · AI Engineer · Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
 [![Open Source](https://img.shields.io/badge/OPEN--SOURCE-23_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
@@ -102,7 +102,7 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 Reginald Alfret V is an **Open-Source Contributor**, **AI Engineer**, **Software Engineer**, and **Full-Stack Developer** based in Chennai, India. Specializing in upstream open-source contributions, autonomous multi-agent artificial intelligence architectures, scalable REST APIs, and production machine learning pipelines.
 
-Active contributor to major open-source ecosystems with **14 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, GitHub, Intel, Cloudflare, Qualcomm, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, and Apache**.
+Active contributor to major open-source ecosystems with **23 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, GitHub, Intel, Cloudflare, Qualcomm, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, Apache, Pinterest, Uber, JRuby, NASA, AWS, Microsoft .NET, and Adobe**.
 
 Currently engineering enterprise ERP software and full-stack modules at **DailyGurus**, with previous predictive modeling experience at **Data Patterns (India) Ltd.** Architect of national champion AI solutions including an autonomous multi-agent platform selected 1st across 500+ teams at HackIndia 2026 and a dark-web forensic intelligence platform adopted by the Tamil Nadu Police.
 
@@ -113,11 +113,13 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 ## ⚡ Open-Source Engineering Command Center
 ### PRIMARY ENGINEERING SIGNAL &bull; 100% UPSTREAM MERGED
 
-[![Upstream Merged](https://img.shields.io/badge/UPSTREAM_MERGED-23_PRs_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
+### **23 MERGED PRs · 23 CONTRIBUTIONS · 21 ORGANIZATION LABELS**
+
+[![Upstream Merged](https://img.shields.io/badge/MERGED_PRs-23_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Total Impact](https://img.shields.io/badge/TOTAL_IMPACT-23_CONTRIBUTIONS-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
+[![Total Impact](https://img.shields.io/badge/CONTRIBUTIONS-23_DOCUMENTED-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-21_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Global Reach](https://img.shields.io/badge/ORGANIZATION_LABELS-21_LABELS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
 
 <br/>
 
@@ -489,7 +491,7 @@ Interested in artificial intelligence, autonomous agent architectures, open sour
 <p>
   <a href="https://reginaldalfret.tech"><img src="https://img.shields.io/badge/Official_Website-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505" alt="Website" /></a>
   &nbsp;
-  <a href="https://reginaldalfret.tech/#open-source"><img src="https://img.shields.io/badge/Open--Source_Showcase-14_PRs-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" /></a>
+  <a href="https://reginaldalfret.tech/#open-source"><img src="https://img.shields.io/badge/Open--Source_Showcase-23_PRs-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/reginaldalfret"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
