@@ -133,68 +133,88 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 <tr>
 <td width="50%" valign="top">
 
-#### 🍎 Apple &bull; Swift Numerics
-`apple/swift-numerics` &bull; **PR #355**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/apple/swift-numerics/pull/355) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/apple/swift-numerics/pull/355)  
-<sub>Authored dedicated documentation and usage examples for the <code>ApproximateEquality</code> protocol in Swift Numerics.</sub>  
+#### 🚀 NASA · OceanData Notebooks
+`nasa/oceandata-notebooks` · **PRs #208 and #209**  
+[![Merged](https://img.shields.io/badge/STATUS-2_MERGED-10B981?style=flat-square)](https://github.com/nasa/oceandata-notebooks/pulls?q=is%3Apr+author%3Areginaldalfret)  
+<sub>Updated L2 flags links across notebooks and clarified when to open cloud-hosted data versus downloading it.</sub>  
 <br/>
-[View Pull Request ↗](https://github.com/apple/swift-numerics/pull/355)
+[PR #208 ↗](https://github.com/nasa/oceandata-notebooks/pull/208) · [PR #209 ↗](https://github.com/nasa/oceandata-notebooks/pull/209)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🟢 NVIDIA &bull; CUDA-Q
-`NVIDIA/cuda-quantum` &bull; **PR #5560**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/NVIDIA/cuda-quantum/pull/5560) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/NVIDIA/cuda-quantum/pull/5560)  
-<sub>Corrected typographical errors and refined technical phrasing in the state vector simulators quantum documentation.</sub>  
+#### ☁️ AWS · Lambda Powertools for Python
+`aws-powertools/powertools-lambda-python` · **PR #8542**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/aws-powertools/powertools-lambda-python/pull/8542)  
+<sub>Added camelCase `replyTo` support in SES mail headers while preserving aliases and adding tests.</sub>  
 <br/>
-[View Pull Request ↗](https://github.com/NVIDIA/cuda-quantum/pull/5560)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🔵 Meta &bull; StyleX
-`facebook/stylex` &bull; **PR #1899**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/facebook/stylex/pull/1899) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/facebook/stylex/pull/1899)  
-<sub>Removed problematic inline-flex/gap styling from heading anchor links so mixed inline content preserves natural text wrapping.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/facebook/stylex/pull/1899)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🟣 GitHub &bull; CLI
-`cli/cli` &bull; **PR #14592**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/cli/cli/pull/14592) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/cli/cli/pull/14592)  
-<sub>Improved Nix/NixOS installation documentation for GitHub CLI by recommending nix-shell and declarative configuration.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/cli/cli/pull/14592)
+[View Pull Request ↗](https://github.com/aws-powertools/powertools-lambda-python/pull/8542)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-#### 🔵 Intel &bull; PyTorch XPU
-`intel/torch-xpu-ops` &bull; **PR #5518**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/intel/torch-xpu-ops/pull/5518) [![Category](https://img.shields.io/badge/CATEGORY-TEST-8B5CF6?style=flat-square)](https://github.com/intel/torch-xpu-ops/pull/5518)  
-<sub>Aligned the XPU <code>grid_sample</code> test suite with upstream PyTorch behavior by removing an obsolete exception assertion.</sub>  
+#### 🧩 Microsoft .NET · Roslyn
+`dotnet/roslyn` · **PR #85999**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/dotnet/roslyn/pull/85999)  
+<sub>Added package README documentation and examples for BannedApiAnalyzers and included the README in the NuGet package.</sub>  
 <br/>
-[View Pull Request ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
+[View Pull Request ↗](https://github.com/dotnet/roslyn/pull/85999)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🟧 Cloudflare &bull; Vinext
-`cloudflare/vinext` &bull; **PR #3469**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/cloudflare/vinext/pull/3469) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/cloudflare/vinext/pull/3469)  
-<sub>Documented <code>startProdServer</code> programmatic API for custom server scripts and compiled standalone outputs in Cloudflare vinext.</sub>  
+#### 🔴 Adobe · Skills for Agents
+`adobe/skills` · **PR #445**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/adobe/skills/pull/445)  
+<sub>Replaced obsolete AEM design references with the Stardust plugin and updated installation/marketplace guidance.</sub>  
 <br/>
-[View Pull Request ↗](https://github.com/cloudflare/vinext/pull/3469)
+[View Pull Request ↗](https://github.com/adobe/skills/pull/445)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📌 Pinterest · PyMemcache
+`pinterest/pymemcache` · **PR #657**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/pinterest/pymemcache/pull/657)  
+<sub>Corrected wheel metadata so Python 3-only releases are not advertised as supporting Python 2.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/pinterest/pymemcache/pull/657)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚗 Uber · Kraken
+`uber/kraken` · **PR #715**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/uber/kraken/pull/715)  
+<sub>Removed tracked Vim swap files and added ignore patterns to prevent them from being committed again.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/uber/kraken/pull/715)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💎 JRuby
+`jruby/jruby` · **PR #9796**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/jruby/jruby/pull/9796)  
+<sub>Fixed string stripping edge cases involving four-byte GB18030-encoded characters.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/jruby/jruby/pull/9796)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 AWS · X-Ray SDK for Python
+`aws/aws-xray-sdk-python` · **PR #494**  
+[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/aws/aws-xray-sdk-python/pull/494)  
+<sub>Fixed Sphinx link parsing for TCP daemon addresses by formatting the address as inline code.</sub>  
+<br/>
+[View Pull Request ↗](https://github.com/aws/aws-xray-sdk-python/pull/494)
 
 </td>
 </tr>
@@ -202,103 +222,109 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 
 <br/>
 
-### 📋 Full Verified Contribution Directory (14 Pull Requests)
+### 📋 Full Verified Contribution Directory
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
+All 23 merged pull requests are linked below. Each entry points to the original upstream pull request.
 
-**🔴 Qualcomm &bull; QAI AppBuilder**  
-`qualcomm/qai-appbuilder` &bull; **PR #286**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/qualcomm/qai-appbuilder/pull/286) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/qualcomm/qai-appbuilder/pull/286)  
-<sub>Fixed broken screenshot relative image paths in WebUI documentation ensuring consistent asset rendering across docs.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/qualcomm/qai-appbuilder/pull/286)
+<table width="100%" border="0" cellpadding="7" cellspacing="0">
+<tr><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+**📘 Meta · StyleX — #1899**  
+<sub>Preserved natural text wrapping in heading anchors.</sub>  
+[View PR ↗](https://github.com/facebook/stylex/pull/1899)
 
-**🌺 Airbnb &bull; MagazineLayout**  
-`airbnb/MagazineLayout` &bull; **PR #169**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/airbnb/MagazineLayout/pull/169) [![Category](https://img.shields.io/badge/CATEGORY-BUILD-EC4899?style=flat-square)](https://github.com/airbnb/MagazineLayout/pull/169)  
-<sub>Specified explicit <code>swift_versions</code> array supporting Swift 4.0, 4.2, and 5.0 in CocoaPods specification for dependency manager compatibility.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/airbnb/MagazineLayout/pull/169)
+**🛠️ Apache · ShenYu Dashboard — #696**  
+<sub>Fixed PropTypes validators being placed in `defaultProps`.</sub>  
+[View PR ↗](https://github.com/apache/shenyu-dashboard/pull/696)
 
-</td>
-</tr>
+**🧪 Intel · PyTorch XPU — #5518**  
+<sub>Aligned XPU `grid_sample` test expectations with upstream PyTorch.</sub>  
+[View PR ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
 
-<tr>
-<td width="50%" valign="top">
+**☁️ Cloudflare · Vinext — #3469**  
+<sub>Documented `startProdServer` for custom and compiled standalone entries.</sub>  
+[View PR ↗](https://github.com/cloudflare/vinext/pull/3469)
 
-**🔷 Microsoft Azure &bull; Cosmos DB**  
-`Azure/azure-cosmos-db-emulator-docker` &bull; **PR #359**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)  
-<sub>Updated Linux Cosmos DB emulator documentation and container image references to reflect General Availability (GA) status.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
+**🔷 Microsoft Azure · Cosmos DB Emulator — #359**  
+<sub>Updated Linux emulator documentation and image references for GA.</sub>  
+[View PR ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
 
-</td>
-<td width="50%" valign="top">
+**📚 IBM · Docling Pipelines — #85**  
+<sub>Removed stale documentation paths.</sub>  
+[View PR ↗](https://github.com/IBM/docling-pipelines/pull/85)
 
-**🔷 IBM &bull; Docling Pipelines**  
-`IBM/docling-pipelines` &bull; **PR #85**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/IBM/docling-pipelines/pull/85) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/IBM/docling-pipelines/pull/85)  
-<sub>Removed obsolete project paths from contributor and architecture documentation and aligned with current project structure.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/IBM/docling-pipelines/pull/85)
+**🐳 Docker Docs — #26266**  
+<sub>Clarified accepted `enableDockerAI` values.</sub>  
+[View PR ↗](https://github.com/docker/docs/pull/26266)
 
-</td>
-</tr>
+**🔷 SAP · Terraform Provider BTP — #1710**  
+<sub>Expanded service-instance import guidance.</sub>  
+[View PR ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
 
-<tr>
-<td width="50%" valign="top">
+**⚫ GitHub CLI — #14592**  
+<sub>Improved Nix/NixOS installation guidance.</sub>  
+[View PR ↗](https://github.com/cli/cli/pull/14592)
 
-**🐳 Docker &bull; Docs**  
-`docker/docs` &bull; **PR #26266**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/docker/docs/pull/26266) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/docker/docs/pull/26266)  
-<sub>Updated Docker documentation so <code>enableDockerAI</code> accurately documents both boolean and Business-tier string values.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/docker/docs/pull/26266)
+**🔴 AMD ROCm · HRX System — #1231**  
+<sub>Allowed compatible populated Python environments to be reused.</sub>  
+[View PR ↗](https://github.com/ROCm/hrx-system/pull/1231)
 
-</td>
-<td width="50%" valign="top">
+**📱 Qualcomm · QAI AppBuilder — #286**  
+<sub>Fixed relative screenshot paths in WebUI README documentation.</sub>  
+[View PR ↗](https://github.com/qualcomm/qai-appbuilder/pull/286)
 
-**🔷 SAP &bull; Terraform Provider BTP**  
-`SAP/terraform-provider-btp` &bull; **PR #1710**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/SAP/terraform-provider-btp/pull/1710) [![Category](https://img.shields.io/badge/CATEGORY-DOCS-00F2FE?style=flat-square)](https://github.com/SAP/terraform-provider-btp/pull/1710)  
-<sub>Expanded Terraform import documentation with guidance for parameters, timeouts, and non-updateable service instances.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
+**🟢 NVIDIA · CUDA-Q — #5560**  
+<sub>Corrected typos and phrasing in state-vector simulator documentation.</sub>  
+[View PR ↗](https://github.com/NVIDIA/cuda-quantum/pull/5560)
 
-</td>
-</tr>
+</td><td width="50%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+**🌺 Airbnb · MagazineLayout — #169**  
+<sub>Specified supported Swift versions in the CocoaPods configuration.</sub>  
+[View PR ↗](https://github.com/airbnb/MagazineLayout/pull/169)
 
-**🔴 AMD ROCm &bull; HRX System**  
-`ROCm/hrx-system` &bull; **PR #1231**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/ROCm/hrx-system/pull/1231) [![Category](https://img.shields.io/badge/CATEGORY-INFRA-EF4444?style=flat-square)](https://github.com/ROCm/hrx-system/pull/1231)  
-<sub>Improved Python environment reuse by allowing compatible populated environments instead of strict version-string equality.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/ROCm/hrx-system/pull/1231)
+**🍎 Apple · Swift Numerics — #355**  
+<sub>Added dedicated `ApproximateEquality` documentation.</sub>  
+[View PR ↗](https://github.com/apple/swift-numerics/pull/355)
 
-</td>
-<td width="50%" valign="top">
+**📌 Pinterest · PyMemcache — #657**  
+<sub>Corrected wheel metadata for Python 3-only releases.</sub>  
+[View PR ↗](https://github.com/pinterest/pymemcache/pull/657)
 
-**🟠 Apache &bull; ShenYu Dashboard**  
-`apache/shenyu-dashboard` &bull; **PR #696**  
-[![Merged](https://img.shields.io/badge/STATUS-MERGED-10B981?style=flat-square)](https://github.com/apache/shenyu-dashboard/pull/696) [![Category](https://img.shields.io/badge/CATEGORY-BUG_FIX-F59E0B?style=flat-square)](https://github.com/apache/shenyu-dashboard/pull/696)  
-<sub>Fixed incorrect placement of PropTypes validators in <code>defaultProps</code> by moving them to <code>propTypes</code>.</sub>  
-<br/>
-[View Pull Request ↗](https://github.com/apache/shenyu-dashboard/pull/696)
+**🚗 Uber · Kraken — #715**  
+<sub>Removed Vim swap files and prevented future tracking.</sub>  
+[View PR ↗](https://github.com/uber/kraken/pull/715)
 
-</td>
-</tr>
+**💎 JRuby — #9796**  
+<sub>Fixed four-byte GB18030 string stripping behavior.</sub>  
+[View PR ↗](https://github.com/jruby/jruby/pull/9796)
+
+**🚀 NASA · OceanData Notebooks — #208**  
+<sub>Updated L2 flags reference links in notebooks.</sub>  
+[View PR ↗](https://github.com/nasa/oceandata-notebooks/pull/208)
+
+**🚀 NASA · OceanData Notebooks — #209**  
+<sub>Clarified cloud access versus external downloading.</sub>  
+[View PR ↗](https://github.com/nasa/oceandata-notebooks/pull/209)
+
+**📦 AWS · X-Ray SDK for Python — #494**  
+<sub>Fixed Sphinx parsing of daemon configuration documentation.</sub>  
+[View PR ↗](https://github.com/aws/aws-xray-sdk-python/pull/494)
+
+**☁️ AWS · Lambda Powertools for Python — #8542**  
+<sub>Added camelCase `replyTo` support and unit tests.</sub>  
+[View PR ↗](https://github.com/aws-powertools/powertools-lambda-python/pull/8542)
+
+**🧩 Microsoft .NET · Roslyn — #85999**  
+<sub>Added BannedApiAnalyzers package README and bundled it with NuGet.</sub>  
+[View PR ↗](https://github.com/dotnet/roslyn/pull/85999)
+
+**🔴 Adobe · Skills for Agents — #445**  
+<sub>Updated AEM design references and Stardust plugin guidance.</sub>  
+[View PR ↗](https://github.com/adobe/skills/pull/445)
+
+</td></tr>
 </table>
-
-<br/>
 
 ### 🛡️ Why Open Source & Upstream Rigor
 
