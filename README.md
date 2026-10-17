@@ -4,7 +4,7 @@
 ### Open-Source Contributor &bull; AI Engineer &bull; Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
-[![Open Source](https://img.shields.io/badge/OPEN--SOURCE-14_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Open Source](https://img.shields.io/badge/OPEN--SOURCE-23_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldalfret)
 [![Resume](https://img.shields.io/badge/R%C3%89SUM%C3%89-PDF_DOWNLOAD-FF2A54?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://reginaldalfret.tech/Reginald_Alfret_Resume.pdf)
 [![Email](https://img.shields.io/badge/EMAIL-reginaldalfret%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reginaldalfret@gmail.com)
@@ -65,7 +65,7 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 <p><b>Verified Distinctions:</b></p>
 
-- ⚡ **14 Merged Open-Source PRs** — Apple, NVIDIA, Meta, GitHub, Intel & more
+- ⚡ **23 Merged Open-Source PRs** — Apple, NVIDIA, Meta, GitHub, Intel & more
 - 🥇 **3× 1st Place Hackathon Winner** — HackIndia 2026, TN Police 2025, Blaze a Trail 2.0
 - 🛡️ **Finalist** — TN Police Hackathon 2024
 - 🏆 **6 National Symposia Wins** — Competitive championships
@@ -113,11 +113,11 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 ## ⚡ Open-Source Engineering Command Center
 ### PRIMARY ENGINEERING SIGNAL &bull; 100% UPSTREAM MERGED
 
-[![Upstream Merged](https://img.shields.io/badge/UPSTREAM_MERGED-14_PRs_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Upstream Merged](https://img.shields.io/badge/UPSTREAM_MERGED-23_PRs_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Total Impact](https://img.shields.io/badge/TOTAL_IMPACT-14_CONTRIBUTIONS-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
+[![Total Impact](https://img.shields.io/badge/TOTAL_IMPACT-23_CONTRIBUTIONS-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-14_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-20_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
 
 <br/>
 
