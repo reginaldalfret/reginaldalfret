@@ -117,7 +117,7 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 &nbsp;
 [![Total Impact](https://img.shields.io/badge/TOTAL_IMPACT-23_CONTRIBUTIONS-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-20_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-21_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
 
 <br/>
 
