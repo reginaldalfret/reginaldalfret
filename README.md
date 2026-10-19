@@ -4,7 +4,7 @@
 ### Open-Source Contributor · AI & DS Engineer · Software Developer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
-[![Open Source](https://img.shields.io/badge/OPEN--SOURCE-21_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Open Source](https://img.shields.io/badge/OPEN--SOURCE-38_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reginaldalfret)
 [![Resume](https://img.shields.io/badge/R%C3%89SUM%C3%89-PDF_DOWNLOAD-FF2A54?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://reginaldalfret.tech/Reginald_Alfret_Resume.pdf)
 [![Email](https://img.shields.io/badge/EMAIL-reginaldalfret%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reginaldalfret@gmail.com)
@@ -65,7 +65,7 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 <p><b>Verified Distinctions:</b></p>
 
-- ⚡ **21 Merged Open-Source PRs** — Apple, NVIDIA, Meta, GitHub, Intel & more
+- ⚡ **38 Merged Open-Source PRs** — Apple, NVIDIA, Meta, Stripe, GitHub, Intel & more
 - 🥇 **3× 1st Place Hackathon Winner** — HackIndia 2026, TN Police 2025, Blaze a Trail 2.0
 - 🛡️ **Finalist** — TN Police Hackathon 2024
 - 🏆 **6 National Symposia Wins** — Competitive championships
@@ -102,7 +102,7 @@ B.Tech in Artificial Intelligence & Data Science<br/>
 
 Reginald Alfret V is an **Open-Source Contributor**, **AI Engineer**, **Software Engineer**, and **Full-Stack Developer** based in Chennai, India. Specializing in upstream open-source contributions, autonomous multi-agent artificial intelligence architectures, scalable REST APIs, and production machine learning pipelines.
 
-Active contributor to major open-source ecosystems with **21 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, GitHub, Intel, Cloudflare, Qualcomm, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, Apache, Pinterest, Uber, JRuby, NASA, AWS, Microsoft .NET, and Adobe**.
+Active contributor to major open-source ecosystems with **38 verified pull requests merged upstream** across **Apple, NVIDIA, Meta, Stripe, GitHub, Intel, Cloudflare, Qualcomm, Salesforce, Airbnb, Microsoft Azure, IBM, Docker, SAP, AMD ROCm, Apache, Pinterest, Uber, JRuby, NASA, AWS, Microsoft .NET, Adobe, and Ogx AI**.
 
 Currently engineering enterprise ERP software and full-stack modules at **DailyGurus**, with previous predictive modeling experience at **Data Patterns (India) Ltd.** Architect of national champion AI solutions including an autonomous multi-agent platform selected 1st across 500+ teams at HackIndia 2026 and a dark-web forensic intelligence platform adopted by the Tamil Nadu Police.
 
@@ -113,13 +113,13 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 ## ⚡ Open-Source Engineering Command Center
 ### PRIMARY ENGINEERING SIGNAL &bull; 100% UPSTREAM MERGED
 
-### **21 MERGED PRs · 21 CONTRIBUTIONS · 21 ORGANIZATIONS**
+### **38 MERGED PRs · 30 REPOSITORIES · 24 ORGANIZATIONS**
 
-[![Upstream Merged](https://img.shields.io/badge/MERGED_PRs-21_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Upstream Merged](https://img.shields.io/badge/MERGED_PRs-38_(100%25)-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Total Impact](https://img.shields.io/badge/CONTRIBUTIONS-21_DOCUMENTED-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
+[![Total Repositories](https://img.shields.io/badge/REPOSITORIES-30_REPOS-00F2FE?style=for-the-badge&logo=checkmarx&logoColor=black)](https://reginaldalfret.tech/#open-source)
 &nbsp;
-[![Global Reach](https://img.shields.io/badge/ORGANIZATIONS-21_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
+[![Global Reach](https://img.shields.io/badge/ORGANIZATIONS-24_ORGANIZATIONS-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://reginaldalfret.tech/#open-source)
 
 <br/>
 
@@ -226,7 +226,7 @@ Currently engineering enterprise ERP software and full-stack modules at **DailyG
 
 ### 📋 Full Verified Contribution Directory
 
-All 21 merged pull requests are linked below. Each entry points to the original upstream pull request.
+All 38 merged pull requests are linked below. Each entry points directly to the authoritative upstream pull request.
 
 <table width="100%" border="0" cellpadding="7" cellspacing="0">
 <tr><td width="50%" valign="top">
@@ -236,86 +236,154 @@ All 21 merged pull requests are linked below. Each entry points to the original 
 [View PR ↗](https://github.com/facebook/stylex/pull/1899)
 
 **🛠️ Apache · ShenYu Dashboard — #696**  
-<sub>Fixed PropTypes validators being placed in `defaultProps`.</sub>  
+<sub>Fixed PropTypes validators declared in defaultProps.</sub>  
 [View PR ↗](https://github.com/apache/shenyu-dashboard/pull/696)
 
+**⚡ Apache · HertzBeat — #4410**  
+<sub>Upgraded xercesImpl to 2.12.2 to resolve CVE-2022-23437.</sub>  
+[View PR ↗](https://github.com/apache/hertzbeat/pull/4410)
+
 **🧪 Intel · PyTorch XPU — #5518**  
-<sub>Aligned XPU `grid_sample` test expectations with upstream PyTorch.</sub>  
+<sub>Aligned XPU grid_sample error assertion with upstream PyTorch.</sub>  
 [View PR ↗](https://github.com/intel/torch-xpu-ops/pull/5518)
 
+**🧠 Intel · Auto-Round — #2421**  
+<sub>Used spawn start method for vLLM to prevent CUDA re-initialization error.</sub>  
+[View PR ↗](https://github.com/intel/auto-round/pull/2421)
+
 **☁️ Cloudflare · Vinext — #3469**  
-<sub>Documented `startProdServer` for custom and compiled standalone entries.</sub>  
+<sub>Documented startProdServer for custom and compiled entries.</sub>  
 [View PR ↗](https://github.com/cloudflare/vinext/pull/3469)
 
 **🔷 Microsoft Azure · Cosmos DB Emulator — #359**  
-<sub>Updated Linux emulator documentation and image references for GA.</sub>  
+<sub>Updated Linux-based emulator heading and image tags to GA.</sub>  
 [View PR ↗](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)
 
 **📚 IBM · Docling Pipelines — #85**  
-<sub>Removed stale documentation paths.</sub>  
+<sub>Removed stale backend references from documentation.</sub>  
 [View PR ↗](https://github.com/IBM/docling-pipelines/pull/85)
 
 **🐳 Docker Docs — #26266**  
-<sub>Clarified accepted `enableDockerAI` values.</sub>  
+<sub>Aligned enableDockerAI accepted values description with settings reference.</sub>  
 [View PR ↗](https://github.com/docker/docs/pull/26266)
 
 **🔷 SAP · Terraform Provider BTP — #1710**  
-<sub>Expanded service-instance import guidance.</sub>  
+<sub>Expanded subaccount service instance import guidance.</sub>  
 [View PR ↗](https://github.com/SAP/terraform-provider-btp/pull/1710)
 
+**🔋 SAP · E-Mobility Simulator — #2136**  
+<sub>Handled BaseError and reverted state on set failure.</sub>  
+[View PR ↗](https://github.com/SAP/e-mobility-charging-stations-simulator/pull/2136)
+
 **⚫ GitHub CLI — #14592**  
-<sub>Improved Nix/NixOS installation guidance.</sub>  
+<sub>Recommended nix-shell and declarative config for Nix/NixOS.</sub>  
 [View PR ↗](https://github.com/cli/cli/pull/14592)
 
 **🔴 AMD ROCm · HRX System — #1231**  
-<sub>Allowed compatible populated Python environments to be reused.</sub>  
+<sub>Allowed reusing populated environments with compatible Python versions.</sub>  
 [View PR ↗](https://github.com/ROCm/hrx-system/pull/1231)
 
 **📱 Qualcomm · QAI AppBuilder — #286**  
-<sub>Fixed relative screenshot paths in WebUI README documentation.</sub>  
+<sub>Fixed screenshot relative image paths in WebUI documentation.</sub>  
 [View PR ↗](https://github.com/qualcomm/qai-appbuilder/pull/286)
 
-</td><td width="50%" valign="top">
+**⚙️ Qualcomm · Commit Msg Check — #38**  
+<sub>Added allow-empty-body option for subject-only commits.</sub>  
+[View PR ↗](https://github.com/qualcomm/commit-msg-check-action/pull/38)
 
 **🟢 NVIDIA · CUDA-Q — #5560**  
-<sub>Corrected typos and phrasing in state-vector simulator documentation.</sub>  
+<sub>Corrected state vector simulator documentation phrasing.</sub>  
 [View PR ↗](https://github.com/NVIDIA/cuda-quantum/pull/5560)
 
+**📐 NVIDIA · cuOpt — #2068**  
+<sub>Implemented unary and abs operators for LinearExpression.</sub>  
+[View PR ↗](https://github.com/NVIDIA/cuopt/pull/2068)
+
 **🌺 Airbnb · MagazineLayout — #169**  
-<sub>Specified supported Swift versions in the CocoaPods configuration.</sub>  
+<sub>Specified supported Swift versions in CocoaPods specification.</sub>  
 [View PR ↗](https://github.com/airbnb/MagazineLayout/pull/169)
 
 **🍎 Apple · Swift Numerics — #355**  
-<sub>Added dedicated `ApproximateEquality` documentation.</sub>  
+<sub>Added dedicated documentation for ApproximateEquality protocol.</sub>  
 [View PR ↗](https://github.com/apple/swift-numerics/pull/355)
 
+</td><td width="50%" valign="top">
+
 **📌 Pinterest · PyMemcache — #657**  
-<sub>Corrected wheel metadata for Python 3-only releases.</sub>  
+<sub>Removed universal wheel flag to build py3-only wheels.</sub>  
 [View PR ↗](https://github.com/pinterest/pymemcache/pull/657)
 
 **🚗 Uber · Kraken — #715**  
-<sub>Removed Vim swap files and prevented future tracking.</sub>  
+<sub>Removed Vim swap files and added .gitignore patterns.</sub>  
 [View PR ↗](https://github.com/uber/kraken/pull/715)
 
 **💎 JRuby — #9796**  
-<sub>Fixed four-byte GB18030 string stripping behavior.</sub>  
+<sub>Prevented ArrayIndexOutOfBoundsException on 4-byte GB18030 strings.</sub>  
 [View PR ↗](https://github.com/jruby/jruby/pull/9796)
 
+**💎 JRuby — #9797**  
+<sub>Cleared temporary module name when assigned to constant in named parent.</sub>  
+[View PR ↗](https://github.com/jruby/jruby/pull/9797)
+
 **🚀 NASA · OceanData Notebooks — #208**  
-<sub>Updated L2 flags reference links in notebooks.</sub>  
+<sub>Updated outdated L2 flags reference links.</sub>  
 [View PR ↗](https://github.com/nasa/oceandata-notebooks/pull/208)
 
-**☁️ AWS · Lambda Powertools for Python — #8542**  
-<sub>Added camelCase `replyTo` support and unit tests.</sub>  
+**🚀 NASA · OceanData Notebooks — #209**  
+<sub>Clarified earthaccess.open vs cloud download performance.</sub>  
+[View PR ↗](https://github.com/nasa/oceandata-notebooks/pull/209)
+
+**☁️ AWS · X-Ray SDK for Python — #494**  
+<sub>Escaped TCP daemon address to prevent broken documentation link.</sub>  
+[View PR ↗](https://github.com/aws/aws-xray-sdk-python/pull/494)
+
+**☁️ AWS · Lambda Powertools Python — #8542**  
+<sub>Added camelCase replyTo support in SesMailCommonHeaders.</sub>  
 [View PR ↗](https://github.com/aws-powertools/powertools-lambda-python/pull/8542)
 
 **🧩 Microsoft .NET · Roslyn — #85999**  
-<sub>Added BannedApiAnalyzers package README and bundled it with NuGet.</sub>  
+<sub>Added package README for BannedApiAnalyzers and bundled NuGet.</sub>  
 [View PR ↗](https://github.com/dotnet/roslyn/pull/85999)
 
 **🔴 Adobe · Skills for Agents — #445**  
-<sub>Updated AEM design references and Stardust plugin guidance.</sub>  
+<sub>Replaced obsolete AEM design references with Stardust plugin.</sub>  
 [View PR ↗](https://github.com/adobe/skills/pull/445)
+
+**💳 Stripe · React Native — #2750**  
+<sub>Fixed missing closing backtick in iOS client secret error message.</sub>  
+[View PR ↗](https://github.com/stripe/stripe-react-native/pull/2750)
+
+**💳 Stripe · React Native — #2751**  
+<sub>Configured preferredNetworks only when explicitly provided on Android.</sub>  
+[View PR ↗](https://github.com/stripe/stripe-react-native/pull/2751)
+
+**💳 Stripe · React Native — #2753**  
+<sub>Added localization configuration guidance for iOS and Android.</sub>  
+[View PR ↗](https://github.com/stripe/stripe-react-native/pull/2753)
+
+**💳 Stripe · React Native — #2754**  
+<sub>Documented height requirement for PlatformPayButton styling.</sub>  
+[View PR ↗](https://github.com/stripe/stripe-react-native/pull/2754)
+
+**☁️ Salesforce · LWC — #5928**  
+<sub>Clarified invalid if-modifier error message in compiler.</sub>  
+[View PR ↗](https://github.com/salesforce/lwc/pull/5928)
+
+**🤖 Ogx AI · Ogx — #6605**  
+<sub>Preserved zero-argument tool calls in ReActToolParser.</sub>  
+[View PR ↗](https://github.com/ogx-ai/ogx/pull/6605)
+
+**🤖 Ogx AI · Ogx — #6631**  
+<sub>Enforced pyproject.toml version caps in dependabot config.</sub>  
+[View PR ↗](https://github.com/ogx-ai/ogx/pull/6631)
+
+**🤖 Ogx AI · Ogx — #6632**  
+<sub>Resolved rerank model provider dynamically in integration tests.</sub>  
+[View PR ↗](https://github.com/ogx-ai/ogx/pull/6632)
+
+**🤖 Ogx AI · Ogx — #6633**  
+<sub>Respected setup rerank_model defaults in integration test script.</sub>  
+[View PR ↗](https://github.com/ogx-ai/ogx/pull/6633)
 
 </td></tr>
 </table>
@@ -483,7 +551,7 @@ Interested in artificial intelligence, autonomous agent architectures, open sour
 <p>
   <a href="https://reginaldalfret.tech"><img src="https://img.shields.io/badge/Official_Website-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505" alt="Website" /></a>
   &nbsp;
-  <a href="https://reginaldalfret.tech/#open-source"><img src="https://img.shields.io/badge/Open--Source_Showcase-21_PRs-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" /></a>
+  <a href="https://reginaldalfret.tech/#open-source"><img src="https://img.shields.io/badge/Open--Source_Showcase-38_PRs-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/reginaldalfret"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
