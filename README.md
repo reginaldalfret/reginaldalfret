@@ -1,7 +1,7 @@
 <div align="center">
 
 # Reginald Alfret V
-### Open-Source Contributor · AI Engineer · Software Engineer
+### Open-Source Contributor · AI & DS Engineer · Software Developer
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
 [![Open Source](https://img.shields.io/badge/OPEN--SOURCE-21_MERGED_PRs-10B981?style=for-the-badge&logo=git&logoColor=white)](https://reginaldalfret.tech/#open-source)
