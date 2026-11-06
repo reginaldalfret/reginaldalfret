@@ -355,22 +355,6 @@ English, Tamil, Malayalam
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-contribution-grid-snake.svg" />
-  <img alt="Reginald Alfret V's Contribution Snake" src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-contribution-grid-snake-dark.svg" style="max-width: 100%;" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Reginald Alfret V's 3D Isometric Contribution Skyline" />
-</picture>
-
-<br/><br/>
-
 <a href="https://github.com/reginaldalfret">
   <img src="https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" alt="Reginald Alfret V's GitHub Streak" />
 </a>
