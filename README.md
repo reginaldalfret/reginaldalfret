@@ -384,3 +384,24 @@ English, Tamil, Malayalam
 `BETTER TECHNOLOGY • HAPPIER PEOPLE`
 
 </div>
+
+
+<!-- START CONNECT4 -->
+
+### 🎮 Community Connect Four Game
+
+Everyone is welcome to play! Click a **column number** below to drop your chip.  
+Current Turn: **🔴 Red** (Moves played: **0**)
+
+| [1](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A1&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%201.%20The%20board%20will%20automatically%20update%20in%20seconds!) | [2](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A2&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%202.%20The%20board%20will%20automatically%20update%20in%20seconds!) | [3](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A3&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%203.%20The%20board%20will%20automatically%20update%20in%20seconds!) | [4](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A4&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%204.%20The%20board%20will%20automatically%20update%20in%20seconds!) | [5](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A5&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%205.%20The%20board%20will%20automatically%20update%20in%20seconds!) | [6](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A6&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%206.%20The%20board%20will%20automatically%20update%20in%20seconds!) | [7](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Adrop%3A7&body=Click%20'Submit%20new%20issue'%20to%20drop%20a%20chip%20in%20Column%207.%20The%20board%20will%20automatically%20update%20in%20seconds!) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+
+🤖 Waiting for a player? [Request an AI Move](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Aai&body=Click%20'Submit%20new%20issue'%20to%20have%20the%20AI%20bot%20make%20the%20next%20turn.) &nbsp;•&nbsp; 🔄 [Reset Game](https://github.com/reginaldalfret/reginaldalfret/issues/new?title=connect4%3Areset&body=Click%20'Submit%20new%20issue'%20to%20reset%20the%20board.)
+
+<!-- END CONNECT4 -->

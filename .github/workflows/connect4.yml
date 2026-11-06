@@ -1,0 +1,55 @@
+name: Connect Four Game
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: connect4
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'connect4:')
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Play Move
+        env:
+          REPOSITORY: ${{ github.repository }}
+          EVENT_ISSUE_NUMBER: ${{ github.event.issue.number }}
+          EVENT_ISSUE_TITLE: ${{ github.event.issue.title }}
+          EVENT_USER_LOGIN: ${{ github.event.issue.user.login }}
+        run: |
+          node game/connect4.js
+
+      - name: Close Issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUM: ${{ github.event.issue.number }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: |
+          gh issue close "$ISSUE_NUM" --comment "🎮 Move processed for @$ISSUE_USER! The Connect Four board has been updated."
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md game/state.json
+          if git diff --staged --quiet; then
+            echo "No game changes to commit."
+          else
+            git commit -m "game(connect4): play move [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi
