@@ -39,5 +39,6 @@ jobs:
             echo "Snake animation is unchanged; nothing to commit."
           else
             git commit -m "chore(snake): update contribution grid snake animation [skip ci]"
+            git pull --rebase origin main
             git push
           fi
