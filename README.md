@@ -349,6 +349,12 @@ English, Tamil, Malayalam
 
 <div align="center">
 
+<a href="https://github.com/yalongwastaken/git-koi">
+  <img src="koi/koi.gif" width="256" alt="Reginald Alfret V's Git Koi — dynamically swimming based on daily GitHub activity" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/reginaldalfret">
   <img src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-stats.svg" alt="Reginald Alfret V's GitHub Stats" />
 </a>
