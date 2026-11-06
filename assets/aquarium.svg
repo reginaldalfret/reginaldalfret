@@ -1,0 +1,1824 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 440" width="100%" height="auto" style="border-radius: 20px; overflow: hidden; background: #030712;">
+  <defs>
+    <!-- Deep Sea Obsidian Gradient -->
+    <linearGradient id="water-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#020817" />
+      <stop offset="35%" stop-color="#061224" />
+      <stop offset="75%" stop-color="#07182E" />
+      <stop offset="100%" stop-color="#020713" />
+    </linearGradient>
+
+    <!-- Caustic Light Rays from surface -->
+    <linearGradient id="sun-ray" x1="0%" y1="0%" x2="30%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#020817" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Sandy Bed Gradient -->
+    <linearGradient id="sand-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B1C2D" />
+      <stop offset="100%" stop-color="#02050A" />
+    </linearGradient>
+
+    <filter id="slight-blur">
+      <feGaussianBlur stdDeviation="0.8" />
+    </filter>
+
+    
+    <linearGradient id="grad-0" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#599FEA" />
+      <stop offset="60%" stop-color="#3178C6" />
+      <stop offset="100%" stop-color="#3178C6" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-1" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FFD43B" />
+      <stop offset="60%" stop-color="#3572A5" />
+      <stop offset="100%" stop-color="#3572A5" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FFF089" />
+      <stop offset="60%" stop-color="#F1E05A" />
+      <stop offset="100%" stop-color="#F1E05A" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-3" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#5ED4F3" />
+      <stop offset="60%" stop-color="#00ADD8" />
+      <stop offset="100%" stop-color="#00ADD8" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-4" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FA8976" />
+      <stop offset="60%" stop-color="#F05138" />
+      <stop offset="100%" stop-color="#F05138" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-5" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#FF80A6" />
+      <stop offset="60%" stop-color="#F34B7D" />
+      <stop offset="100%" stop-color="#F34B7D" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-6" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#959DA5" />
+      <stop offset="60%" stop-color="#6A737D" />
+      <stop offset="100%" stop-color="#6A737D" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-7" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#F6C4A6" />
+      <stop offset="60%" stop-color="#DEA584" />
+      <stop offset="100%" stop-color="#DEA584" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-8" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#F06529" />
+      <stop offset="60%" stop-color="#E34C26" />
+      <stop offset="100%" stop-color="#E34C26" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-9" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#8A6BB7" />
+      <stop offset="60%" stop-color="#563D7C" />
+      <stop offset="100%" stop-color="#563D7C" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-10" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#4A8FC7" />
+      <stop offset="60%" stop-color="#336791" />
+      <stop offset="100%" stop-color="#336791" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-11" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#F37626" />
+      <stop offset="60%" stop-color="#DA5B0B" />
+      <stop offset="100%" stop-color="#DA5B0B" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-12" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#B4F28D" />
+      <stop offset="60%" stop-color="#89E051" />
+      <stop offset="100%" stop-color="#89E051" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-13" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#E59833" />
+      <stop offset="60%" stop-color="#B07219" />
+      <stop offset="100%" stop-color="#B07219" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-14" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#C9ACFF" />
+      <stop offset="60%" stop-color="#A97BFF" />
+      <stop offset="100%" stop-color="#A97BFF" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-15" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#F25E57" />
+      <stop offset="60%" stop-color="#CC342D" />
+      <stop offset="100%" stop-color="#CC342D" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-16" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#7A86B8" />
+      <stop offset="60%" stop-color="#4F5D95" />
+      <stop offset="100%" stop-color="#4F5D95" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-17" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#4DEBE3" />
+      <stop offset="60%" stop-color="#00B4AB" />
+      <stop offset="100%" stop-color="#00B4AB" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-18" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#4169E1" />
+      <stop offset="60%" stop-color="#000080" />
+      <stop offset="100%" stop-color="#000080" stop-opacity="0.85" />
+    </linearGradient>
+    <linearGradient id="grad-19" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#366FD8" />
+      <stop offset="60%" stop-color="#083FA1" />
+      <stop offset="100%" stop-color="#083FA1" stop-opacity="0.85" />
+    </linearGradient>
+  </defs>
+
+  <!-- Tank Glass & Water Background -->
+  <rect width="850" height="440" fill="url(#water-grad)" />
+
+  <!-- Ambient Light Rays -->
+  <polygon points="40,0 160,0 240,440 60,440" fill="url(#sun-ray)" />
+  <polygon points="260,0 410,0 520,440 320,440" fill="url(#sun-ray)" />
+  <polygon points="540,0 670,0 790,440 620,440" fill="url(#sun-ray)" />
+
+  <!-- Background Swaying Seaweed -->
+  
+    <g transform="translate(35, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 35 400; 4 35 400; -4 35 400"
+        dur="3.5s"
+        begin="0.0s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-36 5,-72 T0,-120" fill="none" stroke="#0D3328" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-36 -4,-72 T2,-108" fill="none" stroke="#1B5E4B" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(75, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 75 400; 4 75 400; -4 75 400"
+        dur="4.3s"
+        begin="-0.7s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-46.5 5,-93 T0,-155" fill="none" stroke="#134636" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-46.5 -4,-93 T2,-139.5" fill="none" stroke="#23725C" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(120, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 120 400; 4 120 400; -4 120 400"
+        dur="5.1s"
+        begin="-1.4s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-57 5,-114 T0,-190" fill="none" stroke="#0D3328" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-57 -4,-114 T2,-171" fill="none" stroke="#1B5E4B" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(280, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 280 400; 4 280 400; -4 280 400"
+        dur="3.5s"
+        begin="-2.1s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-67.5 5,-135 T0,-225" fill="none" stroke="#134636" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-67.5 -4,-135 T2,-202.5" fill="none" stroke="#23725C" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(420, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 420 400; 4 420 400; -4 420 400"
+        dur="4.3s"
+        begin="-2.8s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-36 5,-72 T0,-120" fill="none" stroke="#0D3328" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-36 -4,-72 T2,-108" fill="none" stroke="#1B5E4B" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(560, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 560 400; 4 560 400; -4 560 400"
+        dur="5.1s"
+        begin="-3.5s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-46.5 5,-93 T0,-155" fill="none" stroke="#134636" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-46.5 -4,-93 T2,-139.5" fill="none" stroke="#23725C" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(710, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 710 400; 4 710 400; -4 710 400"
+        dur="3.5s"
+        begin="-4.2s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-57 5,-114 T0,-190" fill="none" stroke="#0D3328" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-57 -4,-114 T2,-171" fill="none" stroke="#1B5E4B" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(790, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 790 400; 4 790 400; -4 790 400"
+        dur="4.3s"
+        begin="-4.9s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-67.5 5,-135 T0,-225" fill="none" stroke="#134636" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-67.5 -4,-135 T2,-202.5" fill="none" stroke="#23725C" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+    <g transform="translate(825, 400)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-4 825 400; 4 825 400; -4 825 400"
+        dur="5.1s"
+        begin="-5.6s"
+        repeatCount="indefinite"
+      />
+      <path d="M0,0 Q-15,-36 5,-72 T0,-120" fill="none" stroke="#0D3328" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+      <path d="M0,0 Q12,-36 -4,-72 T2,-108" fill="none" stroke="#1B5E4B" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+    </g>
+
+  <!-- Rising Air Bubbles -->
+  
+    <circle cx="90" cy="390" r="2.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="4s"
+        begin="0.0s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="90; 96; 84; 90"
+        dur="4s"
+        begin="0.0s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="4s"
+        begin="0.0s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="160" cy="390" r="3.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="4.8s"
+        begin="-1.2s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="160; 166; 154; 160"
+        dur="4.8s"
+        begin="-1.2s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="4.8s"
+        begin="-1.2s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="240" cy="390" r="4.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="5.6s"
+        begin="-2.4s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="240; 246; 234; 240"
+        dur="5.6s"
+        begin="-2.4s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="5.6s"
+        begin="-2.4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="350" cy="390" r="2.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="6.4s"
+        begin="-3.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="350; 356; 344; 350"
+        dur="6.4s"
+        begin="-3.6s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="6.4s"
+        begin="-3.6s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="470" cy="390" r="3.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="4s"
+        begin="-4.8s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="470; 476; 464; 470"
+        dur="4s"
+        begin="-4.8s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="4s"
+        begin="-4.8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="580" cy="390" r="4.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="4.8s"
+        begin="-6.0s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="580; 586; 574; 580"
+        dur="4.8s"
+        begin="-6.0s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="4.8s"
+        begin="-6.0s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="680" cy="390" r="2.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="5.6s"
+        begin="-7.2s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="680; 686; 674; 680"
+        dur="5.6s"
+        begin="-7.2s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="5.6s"
+        begin="-7.2s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="760" cy="390" r="3.5" fill="#00F2FE" opacity="0.35">
+      <animate
+        attributeName="cy"
+        values="390; 30"
+        dur="6.4s"
+        begin="-8.4s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="cx"
+        values="760; 766; 754; 760"
+        dur="6.4s"
+        begin="-8.4s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0; 0.5; 0.6; 0"
+        dur="6.4s"
+        begin="-8.4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+  <!-- 20 Swimming Language Fish -->
+  
+    <!-- Fish 1: TypeScript -->
+    <g opacity="1.0" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 140; 950, 140"
+        dur="22s"
+        begin="0s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="5.5s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(1.35)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-0)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.35s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#599FEA" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#599FEA" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-0)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#599FEA" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#599FEA" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#599FEA" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 2: Python -->
+    <g opacity="1.0" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 195; -100, 195"
+        dur="26s"
+        begin="-4s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="6.5s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(1.3)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-1)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.39999999999999997s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#FFD43B" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#FFD43B" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-1)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#FFD43B" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#FFD43B" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#FFD43B" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 3: JavaScript -->
+    <g opacity="1.0" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 95; 950, 95"
+        dur="20s"
+        begin="-8s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="5.0s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(1.25)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-2)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.44999999999999996s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#FFF089" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#FFF089" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-2)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#FFF089" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#FFF089" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#FFF089" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 4: Go -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 240; -100, 240"
+        dur="24s"
+        begin="-2s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="6.0s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(1.05)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-3)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.5s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#5ED4F3" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#5ED4F3" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-3)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#5ED4F3" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#5ED4F3" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#5ED4F3" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 5: Swift -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 120; 950, 120"
+        dur="23s"
+        begin="-12s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="5.8s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(1.05)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-4)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.55s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#FA8976" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#FA8976" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-4)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#FA8976" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#FA8976" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#FA8976" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 6: C++ -->
+    <g opacity="1.0" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 275; 950, 275"
+        dur="28s"
+        begin="-6s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="7.0s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(1.15)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-5)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.35s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#FF80A6" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#FF80A6" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-5)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#FF80A6" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#FF80A6" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#FF80A6" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 7: C -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 70; -100, 70"
+        dur="32s"
+        begin="-15s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="8.0s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(0.85)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-6)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.39999999999999997s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#959DA5" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#959DA5" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-6)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#959DA5" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#959DA5" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#959DA5" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 8: Rust -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 160; -100, 160"
+        dur="25s"
+        begin="-9s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="6.3s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(1)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-7)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.44999999999999996s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#F6C4A6" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#F6C4A6" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-7)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#F6C4A6" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#F6C4A6" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#F6C4A6" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 9: HTML5 -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 215; 950, 215"
+        dur="21s"
+        begin="-17s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="5.3s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(1.1)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-8)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.5s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#F06529" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#F06529" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-8)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#F06529" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#F06529" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#F06529" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 10: CSS3 -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 295; -100, 295"
+        dur="27s"
+        begin="-3s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="6.8s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(1.05)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-9)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.55s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#8A6BB7" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#8A6BB7" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-9)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#8A6BB7" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#8A6BB7" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#8A6BB7" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 11: SQL -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 310; 950, 310"
+        dur="34s"
+        begin="-10s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="8.5s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(0.85)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-10)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.35s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#4A8FC7" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#4A8FC7" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-10)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#4A8FC7" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#4A8FC7" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#4A8FC7" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 12: Jupyter -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 105; -100, 105"
+        dur="30s"
+        begin="-14s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="7.5s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(0.8)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-11)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.39999999999999997s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#F37626" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#F37626" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-11)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#F37626" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#F37626" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#F37626" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 13: Shell -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 80; 950, 80"
+        dur="23s"
+        begin="-5s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="5.8s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(0.9)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-12)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.44999999999999996s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#B4F28D" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#B4F28D" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-12)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#B4F28D" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#B4F28D" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#B4F28D" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 14: Java -->
+    <g opacity="0.9" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 175; 950, 175"
+        dur="26s"
+        begin="-18s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="6.5s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(1)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-13)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.5s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#E59833" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#E59833" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-13)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#E59833" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#E59833" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#E59833" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 15: Kotlin -->
+    <g opacity="1.0" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 230; -100, 230"
+        dur="25s"
+        begin="-11s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="6.3s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(1.05)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-14)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.55s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#C9ACFF" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#C9ACFF" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-14)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#C9ACFF" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#C9ACFF" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#C9ACFF" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 16: Ruby -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 135; -100, 135"
+        dur="31s"
+        begin="-7s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="7.8s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(0.75)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-15)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.35s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#F25E57" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#F25E57" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-15)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#F25E57" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#F25E57" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#F25E57" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 17: PHP -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 285; 950, 285"
+        dur="35s"
+        begin="-21s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="8.8s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(0.75)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-16)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.39999999999999997s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#7A86B8" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#7A86B8" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-16)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#7A86B8" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#7A86B8" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#7A86B8" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 18: Dart -->
+    <g opacity="1.0" >
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 110; -100, 110"
+        dur="22s"
+        begin="-13s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="5.5s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(0.95)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-17)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.44999999999999996s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#4DEBE3" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#4DEBE3" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-17)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#4DEBE3" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#4DEBE3" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#4DEBE3" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 19: Lua -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-100, 150; 950, 150"
+        dur="36s"
+        begin="-16s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="9.0s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform=" scale(0.7)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-18)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.5s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#4169E1" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#4169E1" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-18)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#4169E1" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#4169E1" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#4169E1" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+    <!-- Fish 20: Markdown -->
+    <g opacity="0.75" filter="url(#slight-blur)">
+      <!-- Translation across tank -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="950, 260; -100, 260"
+        dur="33s"
+        begin="-19s"
+        repeatCount="indefinite"
+      />
+      <!-- Sinusoidal bobbing -->
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="0,0; 0,-8; 0,8; 0,0"
+          dur="8.3s"
+          repeatCount="indefinite"
+          additive="sum"
+        />
+        <!-- Orientation & Scaling -->
+        <g transform="scale(-1, 1) scale(0.7)">
+          <!-- Caudal / Tail Fin with wiggle -->
+          <g transform="translate(-24, 0)">
+            <path d="M0,0 C-12,-10 -20,-14 -22,-10 C-18,-2 -15,0 -22,10 C-20,14 -12,10 0,0 Z" fill="url(#grad-19)" opacity="0.88">
+              <animateTransform
+                attributeName="transform"
+                type="rotate"
+                values="-12 0 0; 12 0 0; -12 0 0"
+                dur="0.55s"
+                repeatCount="indefinite"
+              />
+            </path>
+          </g>
+          
+          <!-- Dorsal Fin -->
+          <path d="M-6,-11 C2,-18 12,-16 18,-9 C10,-10 -2,-8 -6,-11 Z" fill="#366FD8" opacity="0.85" />
+          
+          <!-- Ventral Fin -->
+          <path d="M-4,10 C2,16 10,14 14,8 C8,9 0,8 -4,10 Z" fill="#366FD8" opacity="0.75" />
+
+          <!-- Streamlined Body -->
+          <path d="M-24,0 C-16,-13 12,-12 24,0 C12,12 -16,13 -24,0 Z" fill="url(#grad-19)" />
+          
+          <!-- Accent Stripe / Markings -->
+          <path d="M-2,-10 C2,-4 2,4 -2,10 C-5,6 -5,-6 -2,-10 Z" fill="#366FD8" opacity="0.55" />
+          <path d="M8,-8 C11,-3 11,3 8,8 C6,5 6,-5 8,-8 Z" fill="#366FD8" opacity="0.4" />
+
+          <!-- Pectoral Fin with subtle flutter -->
+          <path d="M2,2 C-2,6 -4,11 0,11 C2,10 4,6 2,2 Z" fill="#366FD8" opacity="0.8">
+            <animateTransform
+              attributeName="transform"
+              type="rotate"
+              values="-8 2 2; 15 2 2; -8 2 2"
+              dur="0.6s"
+              repeatCount="indefinite"
+            />
+          </path>
+
+          <!-- Eye with White Glint -->
+          <circle cx="15" cy="-3" r="2.8" fill="#FFFFFF" />
+          <circle cx="16" cy="-3.2" r="1.6" fill="#0A0E17" />
+          <circle cx="16.5" cy="-3.6" r="0.7" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+
+  <!-- Ocean Bed / Obsidian Sand -->
+  <path d="M0,405 Q140,392 280,404 T560,398 T850,405 L850,440 L0,440 Z" fill="url(#sand-grad)" />
+  <path d="M0,408 Q210,398 420,406 T850,410 L850,440 L0,440 Z" fill="#010408" opacity="0.6" />
+
+  <!-- Water Surface Glimmer -->
+  <line x1="0" y1="1" x2="850" y2="1" stroke="#00F2FE" stroke-width="1.5" opacity="0.35" />
+  <line x1="0" y1="3" x2="850" y2="3" stroke="#38BDF8" stroke-width="0.75" opacity="0.2" />
+
+  <!-- Tank Frame Outline -->
+  <rect x="0.5" y="0.5" width="849" height="439" rx="19.5" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1" />
+</svg>

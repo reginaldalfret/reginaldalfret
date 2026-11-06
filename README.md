@@ -356,6 +356,33 @@ English, Tamil, Malayalam
 <br/><br/>
 
 <a href="https://github.com/reginaldalfret">
+  <img src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/aquarium.svg" width="100%" alt="Reginald Alfret V's 20-Fish Code Aquarium" />
+</a>
+
+<br/>
+
+<details>
+  <summary>🐠 <b>Explore the 20 Language Fish in the Tank</b></summary>
+  <br/>
+
+| Fish # | Language | Color Theme | Fish # | Language | Color Theme |
+|:---:|:---|:---:|:---:|:---|:---:|
+| 1 | 🔵 **TypeScript** | `#3178C6` | 11 | 🌊 **SQL** | `#336791` |
+| 2 | 🟡 **Python** | `#3572A5` | 12 | 📙 **Jupyter** | `#DA5B0B` |
+| 3 | 🟨 **JavaScript** | `#F1E05A` | 13 | 🟢 **Shell** | `#89E051` |
+| 4 | 🔷 **Go** | `#00ADD8` | 14 | 🟤 **Java** | `#B07219` |
+| 5 | 🔶 **Swift** | `#F05138` | 15 | 🟣 **Kotlin** | `#A97BFF` |
+| 6 | 🌸 **C++** | `#F34B7D` | 16 | 🔴 **Ruby** | `#CC342D` |
+| 7 | ⚪ **C** | `#6A737D` | 17 | 🫐 **PHP** | `#4F5D95` |
+| 8 | 🟫 **Rust** | `#DEA584` | 18 | 💠 **Dart** | `#00B4AB` |
+| 9 | 🟧 **HTML5** | `#E34C26` | 19 | 🌌 **Lua** | `#000080` |
+| 10 | 🪻 **CSS3** | `#563D7C` | 20 | 📘 **Markdown** | `#083FA1` |
+
+</details>
+
+<br/><br/>
+
+<a href="https://github.com/reginaldalfret">
   <img src="https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" alt="Reginald Alfret V's GitHub Streak" />
 </a>
 
