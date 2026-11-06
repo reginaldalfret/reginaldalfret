@@ -364,18 +364,6 @@ English, Tamil, Malayalam
 <br/><br/>
 
 <a href="https://github.com/reginaldalfret">
-  <img src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-stats.svg" alt="Reginald Alfret V's GitHub Stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/reginaldalfret">
-  <img src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/top-langs.svg" alt="Reginald Alfret V's Most Used Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/reginaldalfret">
   <img src="https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" alt="Reginald Alfret V's GitHub Streak" />
 </a>
 
