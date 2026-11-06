@@ -355,6 +355,14 @@ English, Tamil, Malayalam
 
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="Reginald Alfret V's Contribution Snake" src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-contribution-grid-snake-dark.svg" style="max-width: 100%;" />
+</picture>
+
+<br/><br/>
+
 <a href="https://github.com/reginaldalfret">
   <img src="https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/github-stats.svg" alt="Reginald Alfret V's GitHub Stats" />
 </a>
