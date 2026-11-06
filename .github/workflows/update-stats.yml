@@ -1,0 +1,36 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    # Run once daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest stats SVGs
+        run: |
+          mkdir -p assets
+          curl -s "https://github-stats-extended.vercel.app/api?username=reginaldalfret&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=E6EDF3" -o assets/github-stats.svg
+          curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=reginaldalfret&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=E6EDF3" -o assets/top-langs.svg
+          curl -s "https://streak-stats.demolab.com/?user=reginaldalfret&theme=radical&hide_border=true&background=0D1117" -o assets/streak-stats.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No stats changes to commit."
+          else
+            git commit -m "chore(stats): update github stats and top languages cards [skip ci]"
+            git push
+          fi
