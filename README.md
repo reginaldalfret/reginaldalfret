@@ -350,15 +350,6 @@ English, Tamil, Malayalam
 <div align="center">
 
 <a href="https://github.com/yalongwastaken/git-koi">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="koi/bodies-dark.png" />
-    <img src="koi/bodies-light.png" width="100%" alt="Reginald Alfret V's Git Koi — All Varieties & Growth Stages" />
-  </picture>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/yalongwastaken/git-koi">
   <img src="koi/koi.gif" width="256" alt="Reginald Alfret V's Git Koi — dynamically swimming based on daily GitHub activity" />
 </a>
 
