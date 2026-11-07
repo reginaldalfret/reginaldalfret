@@ -349,12 +349,12 @@ English, Tamil, Malayalam
 
 <div align="center">
 
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/asagi/koi.gif" width="135" alt="Asagi Git Koi" /></a> &nbsp;
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/black/koi.gif" width="135" alt="Black Git Koi" /></a> &nbsp;
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/tea/koi.gif" width="135" alt="Tea Git Koi" /></a> &nbsp;
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/gold/koi.gif" width="135" alt="Gold Git Koi" /></a> &nbsp;
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/platinum/koi.gif" width="135" alt="Platinum Git Koi" /></a> &nbsp;
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/white/koi.gif" width="135" alt="White Git Koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/asagi/koi.gif" width="115" alt="Asagi Git Koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/black/koi.gif" width="115" alt="Black Git Koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/tea/koi.gif" width="115" alt="Tea Git Koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/gold/koi.gif" width="115" alt="Gold Git Koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/platinum/koi.gif" width="115" alt="Platinum Git Koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/white/koi.gif" width="115" alt="White Git Koi" /></a>
 
 <br/><br/>
 
