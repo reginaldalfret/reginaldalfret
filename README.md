@@ -9,6 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-reginaldalfret.tech-00F2FE?style=for-the-badge&logo=vercel&logoColor=050505)](https://reginaldalfret.tech)
 [![GitHub](https://img.shields.io/badge/GITHUB-reginaldalfret-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reginaldalfret)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-reginaldalfret-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reginaldalfret)
+[![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD_PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/reginaldalfret/reginaldalfret/raw/main/Reginald_Alfret_Resume.pdf)
 
 <br/>
 
@@ -233,6 +234,10 @@
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
 Open-Source Contributor, AI & Data Science Engineer and Software Developer (final-year B.Tech AI & DS) building AI/ML systems, full-stack applications and scalable products. Currently building an ERP platform at **DailyGurus**. Built 70+ projects, including three 1st-place hackathon winners (HackIndia 2026, TN Police Hackathon 2025, Blaze a Trail 2.0). Author of 30 merged open-source pull requests at Apple, Google, Microsoft, AWS, Meta, NVIDIA, NASA, Netflix, Stripe and more.
+
+<br/>
+
+[📥 **Download Resume (PDF)**](https://github.com/reginaldalfret/reginaldalfret/raw/main/Reginald_Alfret_Resume.pdf) &nbsp;|&nbsp; [🌐 **Interactive Portfolio**](https://reginaldalfret.tech)
 
 <br/>
 
