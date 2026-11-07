@@ -21,41 +21,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Render Asagi
-        uses: yalongwastaken/git-koi@v1
-        with:
-          body: asagi
-          output-dir: koi/asagi
-
-      - name: Render Black
-        uses: yalongwastaken/git-koi@v1
-        with:
-          body: black
-          output-dir: koi/black
-
-      - name: Render Tea
-        uses: yalongwastaken/git-koi@v1
-        with:
-          body: tea
-          output-dir: koi/tea
-
-      - name: Render Gold
-        uses: yalongwastaken/git-koi@v1
-        with:
-          body: gold
-          output-dir: koi/gold
-
-      - name: Render Platinum
-        uses: yalongwastaken/git-koi@v1
-        with:
-          body: platinum
-          output-dir: koi/platinum
-
-      - name: Render White
-        uses: yalongwastaken/git-koi@v1
-        with:
-          body: white
-          output-dir: koi/white
+      - name: Setup and render all 6 Git Koi varieties
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/git-koi-bin
+          gh release download v1.0.2 --repo yalongwastaken/git-koi -p "git-koi-*-x86_64-unknown-linux-musl.tar.gz" -D /tmp/git-koi-bin --clobber
+          tar -xzf /tmp/git-koi-bin/*.tar.gz -C /tmp/git-koi-bin
+          
+          # Find binary
+          BIN=$(find /tmp/git-koi-bin -type f -name git-koi | head -n 1)
+          chmod +x "$BIN"
+          
+          # Collect account snapshot once
+          "$BIN" collect "${{ github.repository_owner }}" --output /tmp/snapshot.json
+          
+          # Render all 6 koi body types
+          for body in asagi black tea gold platinum white; do
+            mkdir -p "koi/$body"
+            "$BIN" render /tmp/snapshot.json --output-dir "koi/$body" --body "$body"
+          done
 
       - name: Commit all 6 koi if changed
         shell: bash
