@@ -349,23 +349,12 @@ English, Tamil, Malayalam
 
 <div align="center">
 
-<a href="https://github.com/yalongwastaken/git-koi">
-  <img src="koi/koi.gif" width="256" alt="Reginald Alfret V's Git Koi — dynamically swimming based on daily GitHub activity" />
-</a>
-
-<br/><br/>
-
-<details>
-  <summary>🎏 <b>Explore All 6 Live Animated Git Koi Varieties</b></summary>
-  <br/>
-
-| Asagi | Black | Tea (Chagoi) |
-|:---:|:---:|:---:|
-| <img src="koi/asagi/koi.gif" width="180" alt="Asagi Koi" /> | <img src="koi/black/koi.gif" width="180" alt="Black Koi" /> | <img src="koi/tea/koi.gif" width="180" alt="Tea Koi" /> |
-| **Gold (Ogon)** | **Platinum** | **White** |
-| <img src="koi/gold/koi.gif" width="180" alt="Gold Koi" /> | <img src="koi/platinum/koi.gif" width="180" alt="Platinum Koi" /> | <img src="koi/white/koi.gif" width="180" alt="White Koi" /> |
-
-</details>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/asagi/koi.gif" width="135" alt="Asagi Git Koi" /></a> &nbsp;
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/black/koi.gif" width="135" alt="Black Git Koi" /></a> &nbsp;
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/tea/koi.gif" width="135" alt="Tea Git Koi" /></a> &nbsp;
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/gold/koi.gif" width="135" alt="Gold Git Koi" /></a> &nbsp;
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/platinum/koi.gif" width="135" alt="Platinum Git Koi" /></a> &nbsp;
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/white/koi.gif" width="135" alt="White Git Koi" /></a>
 
 <br/><br/>
 
