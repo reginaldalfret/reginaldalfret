@@ -21,27 +21,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup and render all 6 Git Koi varieties
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          mkdir -p /tmp/git-koi-bin
-          gh release download v1.0.2 --repo yalongwastaken/git-koi -p "git-koi-*-x86_64-unknown-linux-musl.tar.gz" -D /tmp/git-koi-bin --clobber
-          tar -xzf /tmp/git-koi-bin/*.tar.gz -C /tmp/git-koi-bin
-          
-          # Find binary
-          BIN=$(find /tmp/git-koi-bin -type f -name git-koi | head -n 1)
-          chmod +x "$BIN"
-          
-          # Collect account snapshot once
-          "$BIN" collect "${{ github.repository_owner }}" --output /tmp/snapshot.json
-          
-          # Render all 6 koi body types
-          for body in asagi black tea gold platinum white; do
-            mkdir -p "koi/$body"
-            "$BIN" render /tmp/snapshot.json --output-dir "koi/$body" --body "$body"
-          done
+      - name: Draw Git Koi (All 6 Varieties)
+        uses: reginaldalfret/git-koi@v1
+        with:
+          login: ${{ github.repository_owner }}
+          body: all
+          output-dir: koi
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit all 6 koi if changed
         shell: bash
