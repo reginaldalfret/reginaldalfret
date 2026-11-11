@@ -29,16 +29,16 @@ jobs:
           output-dir: koi
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit all 6 koi if changed
+      - name: Commit all 6 koi and aquarium if changed
         shell: bash
         run: |
-          git add koi/*/koi.gif koi/*/koi.png
+          git add koi/*/koi.gif koi/*/koi.png koi/aquarium.svg
           if git diff --cached --quiet; then
             echo "The koi are unchanged; nothing to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "koi: draw the day's 6 koi [skip ci]"
+          git commit -m "koi: draw the day's 6 koi and aquarium [skip ci]"
           git pull --rebase origin main
           git push
