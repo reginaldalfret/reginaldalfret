@@ -354,7 +354,7 @@ English, Tamil, Malayalam
 
 <div align="center">
 
-<a href="https://github.com/marketplace/actions/git-koi-action">
+<a href="https://github.com/marketplace/actions/git-koi-aquarium">
   <img src="koi/aquarium.svg" width="100%" alt="Reginald Alfret V's Live GitHub Koi Aquarium" />
 </a>
 

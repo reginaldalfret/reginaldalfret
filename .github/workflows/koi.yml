@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Draw Git Koi (All 6 Varieties)
-        uses: reginaldalfret/git-koi@v1
+        uses: reginaldalfret/git-koi-aquarium@v1
         with:
           login: ${{ github.repository_owner }}
           body: all
