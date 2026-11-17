@@ -32,31 +32,31 @@
 <tr>
 <td width="20%" valign="top">
 
-**🍎 Apple** [#355](https://github.com/apple/swift-numerics/pull/355)  
+**<img src="assets/logos/apple.svg" width="16" height="16" align="center" alt="Apple" /> Apple** [#355](https://github.com/apple/swift-numerics/pull/355)  
 `swift-numerics`
 
 </td>
 <td width="20%" valign="top">
 
-**🌐 Google** [#3511](https://github.com/google/highway/pull/3511)  
+**<img src="assets/logos/google.svg" width="16" height="16" align="center" alt="Google" /> Google** [#3511](https://github.com/google/highway/pull/3511)  
 `Highway`
 
 </td>
 <td width="20%" valign="top">
 
-**☁️ Google Cloud** [#1863](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1863)  
+**<img src="assets/logos/googlecloud.svg" width="16" height="16" align="center" alt="Google Cloud" /> Google Cloud** [#1863](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1863)  
 `Data Validator`
 
 </td>
 <td width="20%" valign="top">
 
-**💻 Microsoft** [#14472](https://github.com/microsoft/semantic-kernel/pull/14472)  
+**<img src="assets/logos/microsoft.svg" width="16" height="16" align="center" alt="Microsoft" /> Microsoft** [#14472](https://github.com/microsoft/semantic-kernel/pull/14472)  
 `Semantic Kernel`
 
 </td>
 <td width="20%" valign="top">
 
-**📦 AWS** [#8542](https://github.com/aws-powertools/powertools-lambda-python/pull/8542)  
+**<img src="assets/logos/aws.svg" width="16" height="16" align="center" alt="AWS" /> AWS** [#8542](https://github.com/aws-powertools/powertools-lambda-python/pull/8542)  
 `Lambda Powertools`
 
 </td>
@@ -64,31 +64,31 @@
 <tr>
 <td width="20%" valign="top">
 
-**📘 Meta** [#1899](https://github.com/facebook/stylex/pull/1899)  
+**<img src="assets/logos/meta.svg" width="16" height="16" align="center" alt="Meta" /> Meta** [#1899](https://github.com/facebook/stylex/pull/1899)  
 `StyleX`
 
 </td>
 <td width="20%" valign="top">
 
-**🟢 NVIDIA** [#2068](https://github.com/NVIDIA/cuopt/pull/2068)  
+**<img src="assets/logos/nvidia.svg" width="16" height="16" align="center" alt="NVIDIA" /> NVIDIA** [#2068](https://github.com/NVIDIA/cuopt/pull/2068)  
 `cuOpt`
 
 </td>
 <td width="20%" valign="top">
 
-**🚀 NASA** [#237](https://github.com/nasa/prog_models/pull/237)  
+**<img src="assets/logos/nasa.svg" width="16" height="16" align="center" alt="NASA" /> NASA** [#237](https://github.com/nasa/prog_models/pull/237)  
 `ProgPy`
 
 </td>
 <td width="20%" valign="top">
 
-**🔷 Azure** [#359](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)  
+**<img src="assets/logos/azure.svg" width="16" height="16" align="center" alt="Azure" /> Azure** [#359](https://github.com/Azure/azure-cosmos-db-emulator-docker/pull/359)  
 `Cosmos DB Emulator`
 
 </td>
 <td width="20%" valign="top">
 
-**🔴 Adobe** [#445](https://github.com/adobe/skills/pull/445)  
+**<img src="assets/logos/adobe.svg" width="16" height="16" align="center" alt="Adobe" /> Adobe** [#445](https://github.com/adobe/skills/pull/445)  
 `Skills`
 
 </td>
@@ -96,31 +96,31 @@
 <tr>
 <td width="20%" valign="top">
 
-**🧪 Intel** [#2421](https://github.com/intel/auto-round/pull/2421)  
+**<img src="assets/logos/intel.svg" width="16" height="16" align="center" alt="Intel" /> Intel** [#2421](https://github.com/intel/auto-round/pull/2421)  
 `AutoRound`
 
 </td>
 <td width="20%" valign="top">
 
-**📚 IBM** [#85](https://github.com/IBM/docling-pipelines/pull/85)  
+**<img src="assets/logos/ibm.svg" width="16" height="16" align="center" alt="IBM" /> IBM** [#85](https://github.com/IBM/docling-pipelines/pull/85)  
 `Docling Pipelines`
 
 </td>
 <td width="20%" valign="top">
 
-**🚗 Uber** [#716](https://github.com/uber/kraken/pull/716)  
+**<img src="assets/logos/uber.svg" width="16" height="16" align="center" alt="Uber" /> Uber** [#716](https://github.com/uber/kraken/pull/716)  
 `Kraken`
 
 </td>
 <td width="20%" valign="top">
 
-**🌺 Airbnb** [#169](https://github.com/airbnb/MagazineLayout/pull/169)  
+**<img src="assets/logos/airbnb.svg" width="16" height="16" align="center" alt="Airbnb" /> Airbnb** [#169](https://github.com/airbnb/MagazineLayout/pull/169)  
 `MagazineLayout`
 
 </td>
 <td width="20%" valign="top">
 
-**⚫ GitHub** [#14592](https://github.com/cli/cli/pull/14592)  
+**<img src="assets/logos/github.svg" width="16" height="16" align="center" alt="GitHub" /> GitHub** [#14592](https://github.com/cli/cli/pull/14592)  
 `GitHub CLI`
 
 </td>
@@ -128,31 +128,31 @@
 <tr>
 <td width="20%" valign="top">
 
-**🖥️ Dell** [#649](https://github.com/dell/omnia/pull/649)  
+**<img src="assets/logos/dell.svg" width="16" height="16" align="center" alt="Dell" /> Dell** [#649](https://github.com/dell/omnia/pull/649)  
 `Omnia Containers`
 
 </td>
 <td width="20%" valign="top">
 
-**☁️ Salesforce** [#659](https://github.com/salesforce/tough-cookie/pull/659)  
+**<img src="assets/logos/salesforce.svg" width="16" height="16" align="center" alt="Salesforce" /> Salesforce** [#659](https://github.com/salesforce/tough-cookie/pull/659)  
 `tough-cookie`
 
 </td>
 <td width="20%" valign="top">
 
-**🔴 AMD** [#1231](https://github.com/ROCm/hrx-system/pull/1231)  
+**<img src="assets/logos/amd.svg" width="16" height="16" align="center" alt="AMD" /> AMD** [#1231](https://github.com/ROCm/hrx-system/pull/1231)  
 `ROCm HRX System`
 
 </td>
 <td width="20%" valign="top">
 
-**🔋 SAP** [#2136](https://github.com/SAP/e-mobility-charging-stations-simulator/pull/2136)  
+**<img src="assets/logos/sap.svg" width="16" height="16" align="center" alt="SAP" /> SAP** [#2136](https://github.com/SAP/e-mobility-charging-stations-simulator/pull/2136)  
 `E-Mobility Simulator`
 
 </td>
 <td width="20%" valign="top">
 
-**📌 Pinterest** [#657](https://github.com/pinterest/pymemcache/pull/657)  
+**<img src="assets/logos/pinterest.svg" width="16" height="16" align="center" alt="Pinterest" /> Pinterest** [#657](https://github.com/pinterest/pymemcache/pull/657)  
 `PyMemcache`
 
 </td>
@@ -160,31 +160,31 @@
 <tr>
 <td width="20%" valign="top">
 
-**📱 Qualcomm** [#38](https://github.com/qualcomm/commit-msg-check-action/pull/38)  
+**<img src="assets/logos/qualcomm.svg" width="16" height="16" align="center" alt="Qualcomm" /> Qualcomm** [#38](https://github.com/qualcomm/commit-msg-check-action/pull/38)  
 `Commit Msg Check`
 
 </td>
 <td width="20%" valign="top">
 
-**💳 Stripe** [#2751](https://github.com/stripe/stripe-react-native/pull/2751)  
+**<img src="assets/logos/stripe.svg" width="16" height="16" align="center" alt="Stripe" /> Stripe** [#2751](https://github.com/stripe/stripe-react-native/pull/2751)  
 `Stripe React Native`
 
 </td>
 <td width="20%" valign="top">
 
-**🐳 Docker** [#26266](https://github.com/docker/docs/pull/26266)  
+**<img src="assets/logos/docker.svg" width="16" height="16" align="center" alt="Docker" /> Docker** [#26266](https://github.com/docker/docs/pull/26266)  
 `Docker Docs`
 
 </td>
 <td width="20%" valign="top">
 
-**⚡ Apache** [#4410](https://github.com/apache/hertzbeat/pull/4410)  
+**<img src="assets/logos/apache.svg" width="16" height="16" align="center" alt="Apache" /> Apache** [#4410](https://github.com/apache/hertzbeat/pull/4410)  
 `HertzBeat`
 
 </td>
 <td width="20%" valign="top">
 
-**🔒 Cloudflare** [#1451](https://github.com/cloudflare/cfssl/pull/1451)  
+**<img src="assets/logos/cloudflare.svg" width="16" height="16" align="center" alt="Cloudflare" /> Cloudflare** [#1451](https://github.com/cloudflare/cfssl/pull/1451)  
 `CFSSL`
 
 </td>
@@ -192,31 +192,31 @@
 <tr>
 <td width="20%" valign="top">
 
-**🤖 OpenAI** [#219](https://github.com/openai/softnet/pull/219)  
+**<img src="assets/logos/openai.svg" width="16" height="16" align="center" alt="OpenAI" /> OpenAI** [#219](https://github.com/openai/softnet/pull/219)  
 `Softnet`
 
 </td>
 <td width="20%" valign="top">
 
-**👻 Snapchat** [#30](https://github.com/Snapchat/ts-inject/pull/30)  
+**<img src="assets/logos/snapchat.svg" width="16" height="16" align="center" alt="Snapchat" /> Snapchat** [#30](https://github.com/Snapchat/ts-inject/pull/30)  
 `ts-inject`
 
 </td>
 <td width="20%" valign="top">
 
-**🎵 Spotify** [#272](https://github.com/spotify/confidence-sdk-swift/pull/272)  
+**<img src="assets/logos/spotify.svg" width="16" height="16" align="center" alt="Spotify" /> Spotify** [#272](https://github.com/spotify/confidence-sdk-swift/pull/272)  
 `Confidence SDK Swift`
 
 </td>
 <td width="20%" valign="top">
 
-**🌐 Cisco** [#202](https://github.com/cisco/cjose/pull/202)  
+**<img src="assets/logos/cisco.svg" width="16" height="16" align="center" alt="Cisco" /> Cisco** [#202](https://github.com/cisco/cjose/pull/202)  
 `cJOSE`
 
 </td>
 <td width="20%" valign="top">
 
-**🎬 Netflix** [#2011](https://github.com/Netflix/atlas/pull/2011)  
+**<img src="assets/logos/netflix.svg" width="16" height="16" align="center" alt="Netflix" /> Netflix** [#2011](https://github.com/Netflix/atlas/pull/2011)  
 `Atlas`
 
 </td>
