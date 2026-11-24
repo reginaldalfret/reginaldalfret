@@ -1,5 +1,6 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" aria-label="Flutter logo">
-  <path fill="#40D0FD" d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357z"/>
-  <path fill="#02569B" d="M14.328 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/>
-  <path fill="#0175C2" d="M15.24 18.59l-4.14-4.14 3.22-3.23 7.37 7.37h-6.45z"/>
+<svg viewBox="0 0 10.05 12.44" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#54c4f8"  fill-rule="evenodd" d="M 10.051 5.744 L 6.222 5.744 L 2.872 9.095 L 4.786 11.009 L 10.051 5.744 Z" />
+  <path fill="#54c4f8"  fill-rule="evenodd" d="M 1.915 8.137 L 0.000 6.222 L 6.222 0.000 L 10.051 0.000 L 1.915 8.137 Z" />
+  <path fill="#01569a"  fill-rule="evenodd" d="M 4.786 11.009 L 6.222 12.444 L 10.051 12.444 L 6.701 9.095 L 4.786 11.009 Z" />
+  <path fill="#28b5f6"  fill-rule="evenodd" d="M 4.786 7.179 L 2.872 9.094 L 4.786 11.008 L 6.700 9.094 L 4.786 7.179 Z" />
 </svg>
