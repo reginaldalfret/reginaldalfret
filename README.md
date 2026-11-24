@@ -13,11 +13,11 @@
 
 <br/>
 
-[![Projects](https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/badges/projects.svg?v=2)](https://reginaldalfret.tech)
+[![Projects](assets/badges/projects.svg)](https://reginaldalfret.tech)
 &nbsp;
-[![1st Place](https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/badges/1st-place.svg?v=2)](https://reginaldalfret.tech)
+[![1st Place](assets/badges/1st-place.svg)](https://reginaldalfret.tech)
 &nbsp;
-[![PRs Merged](https://raw.githubusercontent.com/reginaldalfret/reginaldalfret/main/assets/badges/prs-merged.svg?v=2)](#-open-source-contributions)
+[![PRs Merged](assets/badges/prs-merged.svg)](#-open-source-contributions)
 
 </div>
 
