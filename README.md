@@ -17,7 +17,7 @@
 &nbsp;
 [![1st Place](https://img.shields.io/badge/3%C3%97-1ST_PLACE-F59E0B?style=for-the-badge&logoColor=black)](#-achievements)
 &nbsp;
-[![PRs Merged](https://img.shields.io/badge/30-PRS_MERGED-10B981?style=for-the-badge&logo=git&logoColor=white)](#-open-source-contributions)
+[![PRs Merged](https://img.shields.io/badge/40-PRS_MERGED-10B981?style=for-the-badge&logo=git&logoColor=white)](#-open-source-contributions)
 
 </div>
 
@@ -26,7 +26,7 @@
 ---
 
 ## ⚡ OPEN-SOURCE CONTRIBUTIONS
-### 30 pull requests merged across leading engineering organisations
+### 40 pull requests merged across leading engineering organisations
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
 <tr>
@@ -218,6 +218,70 @@
 
 **<img src="assets/logos/netflix.svg" width="16" height="16" align="center" alt="Netflix" /> Netflix** [#2011](https://github.com/Netflix/atlas/pull/2011)  
 `Atlas`
+
+</td>
+</tr>
+<tr>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/vercel.svg" width="16" height="16" align="center" alt="Vercel" /> Vercel** [#268](https://github.com/vercel/v0-sdk/pull/268)  
+`v0-sdk`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/mozilla.svg" width="16" height="16" align="center" alt="Mozilla" /> Mozilla** [#1682](https://github.com/mozilla/remote-settings/pull/1682)  
+`Remote Settings`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/arm.svg" width="16" height="16" align="center" alt="ARM" /> ARM** [#131](https://github.com/ARMmbed/dapjs/pull/131)  
+`DAP.js`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/juspay.svg" width="16" height="16" align="center" alt="Juspay" /> Juspay** [#2033](https://github.com/juspay/neurolink/pull/2033)  
+`NeuroLink`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/flutter.svg" width="16" height="16" align="center" alt="Flutter" /> Flutter** [#194673](https://github.com/flutter/flutter/pull/194673)  
+`Flutter`
+
+</td>
+</tr>
+<tr>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/gemini.svg" width="16" height="16" align="center" alt="Gemini" /> Gemini** [#121](https://github.com/google-gemini/api-examples/pull/121)  
+`API Examples`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/linkedin.svg" width="16" height="16" align="center" alt="LinkedIn" /> LinkedIn** [#260](https://github.com/linkedin/Hoptimator/pull/260)  
+`Hoptimator`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/kaggle.svg" width="16" height="16" align="center" alt="Kaggle" /> Kaggle** [#1246](https://github.com/Kaggle/kaggle-cli/pull/1246)  
+`Kaggle CLI`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/unity.svg" width="16" height="16" align="center" alt="Unity" /> Unity** [#237](https://github.com/Unity-Technologies/com.unity.mobile.logcat/pull/237)  
+`Mobile Logcat`
+
+</td>
+<td width="20%" valign="top">
+
+**<img src="assets/logos/hp.svg" width="16" height="16" align="center" alt="HP" /> HP** [#223](https://github.com/HPInc/jipp/pull/223)  
+`JIPP`
 
 </td>
 </tr>
