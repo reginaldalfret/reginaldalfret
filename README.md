@@ -13,11 +13,11 @@
 
 <br/>
 
-[![Projects](https://img.shields.io/badge/70%2B-PROJECTS-6366F1?style=for-the-badge&logoColor=white)](#-key-projects)
+[![Projects](https://img.shields.io/badge/70%2B-PROJECTS-6366F1?style=for-the-badge&logoColor=white)](https://reginaldalfret.tech)
 &nbsp;
-[![1st Place](https://img.shields.io/badge/3%C3%97-1ST_PLACE-F59E0B?style=for-the-badge&logoColor=black)](#-achievements)
+[![1st Place](https://img.shields.io/badge/3%C3%97-1ST_PLACE-F59E0B?style=for-the-badge&logoColor=black)](https://reginaldalfret.tech)
 &nbsp;
-[![PRs Merged](https://img.shields.io/badge/40-PRS_MERGED-10B981?style=for-the-badge&logo=git&logoColor=white)](#-open-source-contributions)
+[![PRs Merged](https://img.shields.io/badge/40-PRS%20MERGED-10B981?style=for-the-badge&logo=git&logoColor=white)](#-open-source-contributions)
 
 </div>
 
