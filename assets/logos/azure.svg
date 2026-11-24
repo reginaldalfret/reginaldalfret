@@ -1,3 +1,14 @@
-<svg viewBox="0 0 8.03 4.38" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#0077d4"  fill-rule="evenodd" d="M 6.501 0.000 L 0.310 0.000 C 0.192 0.000 0.086 0.072 0.043 0.182 C 0.000 0.291 0.028 0.416 0.114 0.496 L 4.093 4.210 C 4.209 4.318 4.361 4.378 4.519 4.378 L 8.025 4.378 L 6.501 0.000 Z" />
+<svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ag1" x1="0.68" y1="0.21" x2="0.46" y2="0.82" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#114a8b"/>
+      <stop offset="1" stop-color="#0669bc"/>
+    </linearGradient>
+    <linearGradient id="ag2" x1="0.37" y1="0.28" x2="0.56" y2="0.78" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3ccbf4"/>
+      <stop offset="1" stop-color="#2892df"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ag1)" d="M20.9 4.6L6.1 46.5H17.5l8.5-21.5 11.4 25.2H47l-26.1-45.6z"/>
+  <path fill="url(#ag2)" d="M37.0 9.2 L 25.6 41.0 L 13.5 46.5 H 46.0 L 37.0 9.2 Z"/>
 </svg>

@@ -17,7 +17,7 @@
 &nbsp;
 [![1st Place](assets/badges/1st-place.svg)](https://reginaldalfret.tech)
 &nbsp;
-[![PRs Merged](assets/badges/prs-merged.svg)](#-open-source-contributions)
+[![PRs Merged](assets/badges/40-prs-merged.svg)](#-open-source-contributions)
 
 </div>
 
